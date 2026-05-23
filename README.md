@@ -63,3 +63,19 @@ Do not put server/private thirdweb keys in this repository or in client scenes.
 
 - Main menu: `Assets/Scenes/menu.unity`
 - Gameplay: `Assets/Scenes/level1.unity`
+
+## License
+
+Code in this repository is licensed under Apache-2.0 unless otherwise noted.
+See `LICENSE` and `NOTICE`.
+
+Game assets, including artwork, audio, logos, characters, names, UI art,
+animations, textures, sprites, level art, and branding, are licensed separately.
+See `ASSET_LICENSE.md`.
+
+Third-party dependencies and bundled assets remain under their respective
+licenses and terms. See `THIRD_PARTY_NOTICES.md` and any license files included
+with those dependencies.
+
+By contributing, you agree that your contributions are licensed under the same
+terms as the part of the project you modify. See `CONTRIBUTING.md`.

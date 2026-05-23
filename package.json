@@ -1,7 +1,7 @@
 {
   "name": "rektless",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
     "build": "sh build.sh",
     "clean": "rm -rf Builds apps/aarena_clone_Linux64 apps/aarena_clone_WebGL",
