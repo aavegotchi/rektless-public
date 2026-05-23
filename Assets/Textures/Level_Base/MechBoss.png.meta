@@ -1,0 +1,3514 @@
+fileFormatVersion: 2
+guid: d44c95c5e1240f44aac34d89b41a3088
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MechBoss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3876
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41e925003562747ae572801eaa1a6b
+      internalID: 1422637960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3876
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959b7ad6dde02f54fbd85793b14d3e6e
+      internalID: 815134720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3876
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784e10ba630505e429180ff7e20ff026
+      internalID: -1410269327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3876
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d6d7ebff3cb1408acc22edd84e817
+      internalID: 1024751004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 3876
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ad5028bac69448811ce44ed603d33
+      internalID: -1650266366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_5
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 3876
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b589e3e375fc4eb26b027efeb2b2a
+      internalID: -587253541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3876
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c9ceceafe1adf49a62fb6be62490aa
+      internalID: -440523021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_7
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3876
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ca1d047666d846a43499d3f67df0e
+      internalID: -696160569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2652d907d7250ad46a87a6815f418adb
+      internalID: -1335721044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9bb77e1bf01245bc3911f567c3a87
+      internalID: 1835099628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_10
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855bd5551000fa8408d0202b4310dac0
+      internalID: 1167786837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_11
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb20201bd4f1646ba0e2053c5aa07c
+      internalID: -122397128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_12
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be7c033e6d572543b0591f2dd7ba9b5
+      internalID: 1152532291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_13
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a89969a847614409d1075cfaa7a7f2
+      internalID: -526437318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_14
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc847965b174c3f49a5eb4e59a8062eb
+      internalID: 687647907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_15
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b19b428e5f38448a5e0c2cb4867da
+      internalID: 1217089575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_16
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f73371b1ae5dba49b3215eafb480e6f
+      internalID: 298487393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_17
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3672
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe0b786ca995540bb97e8587fb7e4a
+      internalID: 1372731979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3468
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9011334c92cc70940a9f78c810aa1222
+      internalID: 575955229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3468
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd7870d2247a25458297b3d4127762b
+      internalID: -390453750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_20
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3468
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fbb0e550bcf7946be8a61d9cc00e2d
+      internalID: -1604397791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_21
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3468
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2d374cb3f6b4b41ae13f4adc020e61
+      internalID: -37462543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_22
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 3468
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93da61fefa1e222449d43a7bde12d888
+      internalID: -1074147789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_23
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 3468
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce6d58c3b992d4195302f6d7b6f31b
+      internalID: -193477698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_24
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3468
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5768e664935e845a95b13d6cc0bcd8
+      internalID: -1938086920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_25
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3468
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20fce62f3cf3d7439e474752cb0cac3
+      internalID: -1376943770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640555ae1b264d442a6a7390e7713e94
+      internalID: 1983639587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a943cd75b90e6a4998d280546aeeaa5
+      internalID: 221040711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_28
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0626018e1034d98439332c3a8ef755b3
+      internalID: 1314176654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_29
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235df22883f40e44cab8838e21611fe4
+      internalID: -1597086340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_30
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af8d4d9e8a9f044b9eb45afe65ed5a
+      internalID: -910805272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_31
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71460c95743532441b1ceeb08e2402cd
+      internalID: 433452417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_32
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5424df41f69d056489f3d5a1eec4568e
+      internalID: 1355605592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_33
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af7d22fd313ffa49a0a65ccf9d8e511
+      internalID: 485806180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_34
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7e12f32475314cab65aea02ec8a84
+      internalID: -687512909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_35
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3264
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be208422cea96144d9c6eb135909e16e
+      internalID: -1942966297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3060
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c7d1c053a68b240a00a3cee6d43846
+      internalID: 568994517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_37
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3060
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949416c5d6b641e47ae95a58bbce2520
+      internalID: -209317784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e056dc5b9ea1f4c47968a566df5c44ca
+      internalID: 1940332809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb338e41e890440a006155ee002cb4
+      internalID: 1075555143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_40
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865e73ccd8fda44b836cde041d1f8dc
+      internalID: -533266239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_41
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b21b08f95557b4ab0fdbfd24a0455c
+      internalID: 2140714974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_42
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f51cf5886b5a9246bad0bdcd344f2a5
+      internalID: 1625923310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_43
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c95a7c5259505049a5889b6016dab42
+      internalID: -2068373109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_44
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e99f10c5dd74ac40924109b03d0a1d3
+      internalID: 854455806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_45
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306ba82fdf33504b9bc1878f9e9497a
+      internalID: -1767481336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_46
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0610d4fcba295345baf34b753ce8a8b
+      internalID: 1983945871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_47
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2856
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e31ab713cef0a448eca6b6052916cd
+      internalID: -1208919096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2652
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f4c799f05a6a438a8be1346419280
+      internalID: -1436171525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_49
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2652
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23c4350a2d5ff45a4836e22047f072
+      internalID: -2044871842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c6881855b07224a8bc6b82f03898b6
+      internalID: -1752212714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7504dea434768247aa8086cd3ba6a05
+      internalID: -1666074831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_52
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13ee28f7c05f5b45a0d30645f25d6ec
+      internalID: 1936367805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_53
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca80642589d3e4049bd4c7f953bfa963
+      internalID: -556773572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_54
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda9f2970ff509a45977d8ce36c89ce2
+      internalID: 34278211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_55
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ae03d1b59e1c4f91f5c09d409e79d
+      internalID: -997699862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_56
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc90b24fe99094aae5efe44e4cf336
+      internalID: 1266678984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_57
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eab99e5b9c0a24392332c3867576a1
+      internalID: 2099830417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_58
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc93fe868daa59408054f04fd6e1a86
+      internalID: 1977951807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_59
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2448
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85b7cb2706d4f43b314c8f51156430
+      internalID: 2126341349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2244
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf999a318db768044b7400b91821ffa4
+      internalID: 1600498289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2244
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba1a02a9c309043b65b14944c3c8a6
+      internalID: 2056883072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51022c876cf60e41ac38d5cce7adab1
+      internalID: 366294268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_63
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac9f80a27a4c344be6082e205b0627
+      internalID: 1562574338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_64
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fecb69e859f7f94396a404293f13440
+      internalID: -179116378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_65
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5bfc85223d5284f812dbcb8ccbdf88
+      internalID: 1865765801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_66
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ae49dbf1d65a24cb74d8e5ace27888
+      internalID: -294973629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_67
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396c55086e6b5c648b4e7171feadd3e5
+      internalID: -1824761138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_68
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88327c569349c5847b4536d6bea32c97
+      internalID: 1227609673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_69
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07874d942ffc0e2429baaceb29e36ca5
+      internalID: -671472710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_70
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54252a8cc63cb13498d056e02f06dd5e
+      internalID: -1255397262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_71
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2040
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec2aa7cf0172b4c916fd226d1524c7
+      internalID: -2117708161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4805c34eea1827942828b4e1bf03c8e0
+      internalID: -405112469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_73
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1836
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1216fe0b2a733cf4fa21edb2424d1365
+      internalID: -2126631592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_74
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1836
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b812150b385e94ba0a7f4d0c175d5e
+      internalID: 152473932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c6d77512680ef448f6d31fa9ab54d2
+      internalID: 1265203638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_76
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f391fa450b87f4d84ea319501ed040
+      internalID: -1567486611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_77
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6efbef8acf03048847c487d3c0abd6
+      internalID: -296538573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_78
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964b0837b6000b5438e8a514e5542190
+      internalID: 2130964031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_79
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835ee073b6c18f45a76e1a39c942378
+      internalID: 943698013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_80
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d7d3cfa517c9849be2f2398aea1253
+      internalID: -847149041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_81
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f12f68558ceb04e8837abfe18e54a2
+      internalID: -1788624953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_82
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d67b59f03a335947a8abc7e261ec3de
+      internalID: -1726089670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_83
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38766c43aab8ef4bb5743e37ec53fa6
+      internalID: -647445751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_84
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1632
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a411036608d5c8f478961ac52d0cff14
+      internalID: -1761412245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa6264c425765149a7997e076d79ad7
+      internalID: 1774039064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_86
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1428
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9404b93b1baf747b5e2b1908f68572
+      internalID: -907418928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502f90a42f19e64c8dfc6fe8e7a55be
+      internalID: -1810132844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_88
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5847acb38934d614daef4c846d123ad0
+      internalID: -289393442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_89
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cec52a0f88ea744bba228f3a820855
+      internalID: -103878259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_90
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99fc2a4fff558428e4f3e004d502b0
+      internalID: -224442980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_91
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8b85aa3e9ad31489fb0c224255aa16
+      internalID: 707017869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_92
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab13c6d823f9014f939d284d76ac923
+      internalID: -1681466462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_93
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef232dc7a7aea74993bd75dc578320c
+      internalID: -2036490389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_94
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb05d4cd98139ce49ac77df3c37874ee
+      internalID: -1102925917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_95
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287662ba7c7a964faa25d535c82133d
+      internalID: 1144822958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_96
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1224
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9755d95ed30cf1841ad6fa5291050cb9
+      internalID: -325412644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e33dfbbfee5f4490bf8b447760f97
+      internalID: -1544410597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_98
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1020
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd6217f517e32b4b9d592a5c3669374
+      internalID: 262736857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_99
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1020
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5eb84b9689364b9a214d3ec9d21bf
+      internalID: 397555649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_100
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1020
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f55fe9b97ccead4eb813db4fb2d9cf6
+      internalID: 733958741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_101
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1020
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20137dcfe98c636468f5dffdf520cedb
+      internalID: 860061397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_102
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1020
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2bbe7185962d44f8895150979464a3
+      internalID: -1190476808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8708a2ca887c5f44a29fcbd35c0719d
+      internalID: -1215165809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_104
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f62a740916a234580bfd400d40d5e7
+      internalID: -161381662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_105
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4039fe3f802c8e8448da9069bdfd1ef5
+      internalID: -16567245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_106
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3b1a5b886924a43a6daaf385613a19
+      internalID: -1979732651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_107
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf6ecea1326cd4fa3658f97c049596
+      internalID: 792526359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_108
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e11415587a31234dbfe518f82251595
+      internalID: 2095202490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_109
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73078bd63ca4d4b49b4ecc2258e395db
+      internalID: 154780696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_110
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a18b8f098498141bc27e0264272bb3
+      internalID: 245495436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_111
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091da9ce9eb1da8448131368b27b346e
+      internalID: -1563465402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_112
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 816
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d234a9e0568fe64b888d034207b6fa8
+      internalID: 921214310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6059120e149464bbce1fa94031b77c
+      internalID: -229492247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_114
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 612
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066f46a4d90343498464b4aecbc150d
+      internalID: -1381424500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_115
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 612
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b149f93d89c024da0a72986f8b1d47
+      internalID: -1390559529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_116
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 612
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dee6bad11149549ae5ec035c1064e5
+      internalID: -672048575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_117
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 612
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16bdce75da6b5d4ebf72b29eec15e8f
+      internalID: -456727567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9405c4ae485221148b6ba08e5395509c
+      internalID: 85432500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_119
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265823a02ec04f4998224790af0e139
+      internalID: -486724605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_120
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c45cf27ddea82e4f9f46aac154b6a6d
+      internalID: -1253322182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_121
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ebcad28dc86334dbf5b81a5bbcef41
+      internalID: 1085692984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_122
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc480086f5429114d8a22694078ad34e
+      internalID: 1192749149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_123
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0d33a71c34e24eaca8aa3b1adc8a3
+      internalID: 1049970110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_124
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed15a5c1e213dd9458c31e2eb648c470
+      internalID: 1087624834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_125
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c622bd515b3da804f897f16a2719c848
+      internalID: -188243840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_126
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfecbe2a9bf283a4288167ac6536934c
+      internalID: 1842046858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_127
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 408
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11190b1e0763634b806f8d2346ddd52
+      internalID: 2100203657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c29c61c11f60a46a916955d21c9768
+      internalID: 653817503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_129
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 204
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7014e4b4952bae246834eb0ce4340ff5
+      internalID: -643398878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_130
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 204
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ff71d568c9a2a40a97666f0510c298
+      internalID: -1723405840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_131
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 204
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77160d5c2465f54a80b6ca296ce5143
+      internalID: -470177547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_132
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 204
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de922a0913e7a1a4298ac77fe6fec031
+      internalID: -1403086036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_133
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 204
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06252a6bf660d764aa565dc06cc23090
+      internalID: 873766419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_134
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 204
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec1009c49a3974b862d8c46cb9063d
+      internalID: -262887793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_135
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 204
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f12aae014325b04287e97a22a8ca7f7
+      internalID: -1280769842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c04ff55c6bf2e4cbe69395ecc646bd
+      internalID: -60643545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_137
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26423869727b2674e9b65dc4d0ca9a9e
+      internalID: 1777483126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_138
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa28b80e21acc438946a9bda12dec0
+      internalID: 1082219135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_139
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c642c292fc36c7a40a007c069e0eda4e
+      internalID: 469851810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_140
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce604c350699243a72d6825c0405e3
+      internalID: 615279924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_141
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db1fe97ef9457d4d945405621f9d23a
+      internalID: -1991887823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_142
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a410cfcebbb35d440a0da6a2f000ec1b
+      internalID: 940636878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_143
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466a4dc4d5eb4c428c55dc02bdee3ab
+      internalID: -1922621756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_144
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9b68401abb63b4fa2007254ccdf568
+      internalID: 2127228740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechBoss_145
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 0
+        width: 358
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1fb0b7159e1745b5d9c241738dd0c
+      internalID: -1462963070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MechBoss_0: 1422637960
+      MechBoss_1: 815134720
+      MechBoss_10: 1167786837
+      MechBoss_100: 733958741
+      MechBoss_101: 860061397
+      MechBoss_102: -1190476808
+      MechBoss_103: -1215165809
+      MechBoss_104: -161381662
+      MechBoss_105: -16567245
+      MechBoss_106: -1979732651
+      MechBoss_107: 792526359
+      MechBoss_108: 2095202490
+      MechBoss_109: 154780696
+      MechBoss_11: -122397128
+      MechBoss_110: 245495436
+      MechBoss_111: -1563465402
+      MechBoss_112: 921214310
+      MechBoss_113: -229492247
+      MechBoss_114: -1381424500
+      MechBoss_115: -1390559529
+      MechBoss_116: -672048575
+      MechBoss_117: -456727567
+      MechBoss_118: 85432500
+      MechBoss_119: -486724605
+      MechBoss_12: 1152532291
+      MechBoss_120: -1253322182
+      MechBoss_121: 1085692984
+      MechBoss_122: 1192749149
+      MechBoss_123: 1049970110
+      MechBoss_124: 1087624834
+      MechBoss_125: -188243840
+      MechBoss_126: 1842046858
+      MechBoss_127: 2100203657
+      MechBoss_128: 653817503
+      MechBoss_129: -643398878
+      MechBoss_13: -526437318
+      MechBoss_130: -1723405840
+      MechBoss_131: -470177547
+      MechBoss_132: -1403086036
+      MechBoss_133: 873766419
+      MechBoss_134: -262887793
+      MechBoss_135: -1280769842
+      MechBoss_136: -60643545
+      MechBoss_137: 1777483126
+      MechBoss_138: 1082219135
+      MechBoss_139: 469851810
+      MechBoss_14: 687647907
+      MechBoss_140: 615279924
+      MechBoss_141: -1991887823
+      MechBoss_142: 940636878
+      MechBoss_143: -1922621756
+      MechBoss_144: 2127228740
+      MechBoss_145: -1462963070
+      MechBoss_15: 1217089575
+      MechBoss_16: 298487393
+      MechBoss_17: 1372731979
+      MechBoss_18: 575955229
+      MechBoss_19: -390453750
+      MechBoss_2: -1410269327
+      MechBoss_20: -1604397791
+      MechBoss_21: -37462543
+      MechBoss_22: -1074147789
+      MechBoss_23: -193477698
+      MechBoss_24: -1938086920
+      MechBoss_25: -1376943770
+      MechBoss_26: 1983639587
+      MechBoss_27: 221040711
+      MechBoss_28: 1314176654
+      MechBoss_29: -1597086340
+      MechBoss_3: 1024751004
+      MechBoss_30: -910805272
+      MechBoss_31: 433452417
+      MechBoss_32: 1355605592
+      MechBoss_33: 485806180
+      MechBoss_34: -687512909
+      MechBoss_35: -1942966297
+      MechBoss_36: 568994517
+      MechBoss_37: -209317784
+      MechBoss_38: 1940332809
+      MechBoss_39: 1075555143
+      MechBoss_4: -1650266366
+      MechBoss_40: -533266239
+      MechBoss_41: 2140714974
+      MechBoss_42: 1625923310
+      MechBoss_43: -2068373109
+      MechBoss_44: 854455806
+      MechBoss_45: -1767481336
+      MechBoss_46: 1983945871
+      MechBoss_47: -1208919096
+      MechBoss_48: -1436171525
+      MechBoss_49: -2044871842
+      MechBoss_5: -587253541
+      MechBoss_50: -1752212714
+      MechBoss_51: -1666074831
+      MechBoss_52: 1936367805
+      MechBoss_53: -556773572
+      MechBoss_54: 34278211
+      MechBoss_55: -997699862
+      MechBoss_56: 1266678984
+      MechBoss_57: 2099830417
+      MechBoss_58: 1977951807
+      MechBoss_59: 2126341349
+      MechBoss_6: -440523021
+      MechBoss_60: 1600498289
+      MechBoss_61: 2056883072
+      MechBoss_62: 366294268
+      MechBoss_63: 1562574338
+      MechBoss_64: -179116378
+      MechBoss_65: 1865765801
+      MechBoss_66: -294973629
+      MechBoss_67: -1824761138
+      MechBoss_68: 1227609673
+      MechBoss_69: -671472710
+      MechBoss_7: -696160569
+      MechBoss_70: -1255397262
+      MechBoss_71: -2117708161
+      MechBoss_72: -405112469
+      MechBoss_73: -2126631592
+      MechBoss_74: 152473932
+      MechBoss_75: 1265203638
+      MechBoss_76: -1567486611
+      MechBoss_77: -296538573
+      MechBoss_78: 2130964031
+      MechBoss_79: 943698013
+      MechBoss_8: -1335721044
+      MechBoss_80: -847149041
+      MechBoss_81: -1788624953
+      MechBoss_82: -1726089670
+      MechBoss_83: -647445751
+      MechBoss_84: -1761412245
+      MechBoss_85: 1774039064
+      MechBoss_86: -907418928
+      MechBoss_87: -1810132844
+      MechBoss_88: -289393442
+      MechBoss_89: -103878259
+      MechBoss_9: 1835099628
+      MechBoss_90: -224442980
+      MechBoss_91: 707017869
+      MechBoss_92: -1681466462
+      MechBoss_93: -2036490389
+      MechBoss_94: -1102925917
+      MechBoss_95: 1144822958
+      MechBoss_96: -325412644
+      MechBoss_97: -1544410597
+      MechBoss_98: 262736857
+      MechBoss_99: 397555649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

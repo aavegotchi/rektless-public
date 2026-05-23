@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4510288283231443320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2824078779512727669}
+  - component: {fileID: 8511267043640232426}
+  m_Layer: 0
+  m_Name: Space Parallax
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2824078779512727669
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4510288283231443320}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.0956092, y: -2.097687, z: -18.407085}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8511267043640232426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4510288283231443320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd1966b81445a9f4e830066370dc3f97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraTransform: {fileID: 0}
+  intensity: 9.5
+  backgroundLayers:
+  - sprite: {fileID: 21300000, guid: 113423491728b614eafeabd04f218452, type: 3}
+    parallaxFactor: 0
+    spriteCount: 1
+    startPosition: {x: -5, y: 0}
+    sizeScale: {x: 5.6, y: 5.6}
+    zPosition: 40
+    repositionThresholdMultiplier: 5
+    material: {fileID: 2100000, guid: 9a7ed02bc7cc0124f94634bbc44c2a8a, type: 2}
+  - sprite: {fileID: 21300000, guid: f68fc10f176d591439e6cff854f94756, type: 3}
+    parallaxFactor: 0
+    spriteCount: 1
+    startPosition: {x: -5, y: 0}
+    sizeScale: {x: 5.6, y: 5.6}
+    zPosition: 50
+    repositionThresholdMultiplier: 5
+    material: {fileID: 2100000, guid: c8c1497a1555f394c8e0047644e75f8d, type: 2}
+  - sprite: {fileID: 21300000, guid: 1adfcd27a6bfcf04e804d4fc740946d6, type: 3}
+    parallaxFactor: 0
+    spriteCount: 1
+    startPosition: {x: -5, y: 0}
+    sizeScale: {x: 5.6, y: 5.6}
+    zPosition: 60
+    repositionThresholdMultiplier: 5
+    material: {fileID: 2100000, guid: 9f59972afe7a4e243b5789a6e9651496, type: 2}
+  - sprite: {fileID: 21300000, guid: 6b46c07005aa8a7489fb32b549e25dc7, type: 3}
+    parallaxFactor: 0
+    spriteCount: 1
+    startPosition: {x: -5, y: 0}
+    sizeScale: {x: 5.6, y: 5.6}
+    zPosition: 70
+    repositionThresholdMultiplier: 5
+    material: {fileID: 2100000, guid: f42a74bf886d42f46b7432472ec96e92, type: 2}
+  cameraFollow: {fileID: 0}

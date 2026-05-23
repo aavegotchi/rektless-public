@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  - Ground
+  - TouchEnemy
+  - Meteor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Wall
+  - Ground
+  - PlayerArm
+  - EnemyArm
+  - PlayerProjectile
+  - Boss
+  - EnemyProjectile
+  - Space
+  - Solid
+  - Jumpable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3739548823
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 4196015911
+    locked: 0
+  - name: MainTerrain
+    uniqueID: 1351994511
+    locked: 0
+  - name: UI
+    uniqueID: 1883933645
+    locked: 0

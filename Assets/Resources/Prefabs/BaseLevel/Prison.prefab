@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8512785291424627830
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4114240295515248461}
+  - component: {fileID: 4659182417330468958}
+  - component: {fileID: 3711583970170357586}
+  - component: {fileID: 5226720652771637457}
+  - component: {fileID: 1484162851219218631}
+  m_Layer: 0
+  m_Name: Prison
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4114240295515248461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8512785291424627830}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1.7}
+  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &4659182417330468958
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8512785291424627830}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5f88700017cdabc4fb555915344cfad5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!212 &3711583970170357586
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8512785291424627830}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: eee89883afe9b8f429a70849dccfffcb, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -1407556571, guid: 4113cbfa44e0fce4288e86562d54d4bc, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.92, y: 0.42}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &5226720652771637457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8512785291424627830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 676d4758e0de4f29b14b37234b2b074a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - textureName: 
+    texture: {fileID: 2800000, guid: 4113cbfa44e0fce4288e86562d54d4bc, type: 3}
+    textureRescued: {fileID: 2800000, guid: c5a07cb8121cab34698efa48b2557f28, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 7e9401b82a9ad2047b2cf6d3e417e5ae, type: 3}
+    textureRescued: {fileID: 2800000, guid: 3a5fc446ad7eaaf468dca99f4352dc85, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 528133f03f79dd94ab2257f9789e4845, type: 3}
+    textureRescued: {fileID: 2800000, guid: 715ed1db74800034b9e9b279c0884c01, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 68841a42e3442824b8144b60f25fbca7, type: 3}
+    textureRescued: {fileID: 2800000, guid: 69d37959c0a2b184181007582518699c, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 74f78a9aa705c134a929be420618bda5, type: 3}
+    textureRescued: {fileID: 2800000, guid: 1ed25fcfa6952804397c37c9a2e6fb6f, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: be6ad2af7507f834ea7fdb411e034158, type: 3}
+    textureRescued: {fileID: 2800000, guid: e548f16a11affdb4d8ad76a0ed3a855a, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: f9baddfc4f49c5448b1cb2f6b9adb84a, type: 3}
+    textureRescued: {fileID: 2800000, guid: 14a43b47cc2f5424fbc4611a47200ae6, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: e08e1b757b9ccd648aad686ca2b2cc74, type: 3}
+    textureRescued: {fileID: 2800000, guid: 975212dff9cb43b44895e6dea7caed39, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: a6e34beef37ed98418049f06ebaec6c6, type: 3}
+    textureRescued: {fileID: 2800000, guid: 0244b8bed8dc71a48a0693e0b8a656a2, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 35a249695f6358b4394935ecd3e9ff8b, type: 3}
+    textureRescued: {fileID: 2800000, guid: 41dbf4abd02f4cd479cd89d2837dab8e, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 0fd052c9108b53d448e6d1a026180b95, type: 3}
+    textureRescued: {fileID: 2800000, guid: 08613833ed158da4cb7dca2d62a89397, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: f8339056f5dd9c240b865e57b872604f, type: 3}
+    textureRescued: {fileID: 2800000, guid: 888ebbf3c62d2a44b8363dfb1d5ca07f, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 078acf3ce6bd0cc4f829be9cc5d97adc, type: 3}
+    textureRescued: {fileID: 2800000, guid: 23bcc879d47676d4b9a9235d0e7bcace, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: c6feaedbb8a433a45a994e5365cd3026, type: 3}
+    textureRescued: {fileID: 2800000, guid: 788172c686e44284aa92782fea96711d, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 4d9d4b0dc47993141b3c7856856b8a4f, type: 3}
+    textureRescued: {fileID: 2800000, guid: a5d6b123a1cd5554e934f3212a9dfd30, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: c3e568204beff4848b44a89ca415468a, type: 3}
+    textureRescued: {fileID: 2800000, guid: 175e11b9a5cb200449f77d0550b98f8e, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 070e20bdcfaf6b343963aceea7c2fdaa, type: 3}
+    textureRescued: {fileID: 2800000, guid: a8f4cbbe3a1b3c54c9f741d22fe8078d, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 4b5087d8fbeb0464f83c83574aaa39e4, type: 3}
+    textureRescued: {fileID: 2800000, guid: 4d5f0d36224e5a148ab5212c4452f7f8, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: d0b4acc7732dd7542ac92352692e95ba, type: 3}
+    textureRescued: {fileID: 2800000, guid: c16565c7a86fe224e84251067bce6fba, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 1a45d5541ad8f704285a82b90d902a8f, type: 3}
+    textureRescued: {fileID: 2800000, guid: 1ed36e71e54106543b9a9a2f30c22e09, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 3becbe042af902c4a8b9b91dbd8944d2, type: 3}
+    textureRescued: {fileID: 2800000, guid: 5aedc658a9e11d34f8230a4b1d71eb74, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: be613cb593e6efa4eb85ea54e608d765, type: 3}
+    textureRescued: {fileID: 2800000, guid: 7607b110bfed6f4408e3ecbca1fa1d2d, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 34ad19c311071f8439479ef101b4a610, type: 3}
+    textureRescued: {fileID: 2800000, guid: 70c23a5f6ee18aa498648893949bb2bf, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 813bea8144e17dd4eba2874d5f075797, type: 3}
+    textureRescued: {fileID: 2800000, guid: 6bca47cabe148254da5b85766fd8ebbf, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 4f6b37e958f174b4dab9bb4bf5857ec9, type: 3}
+    textureRescued: {fileID: 2800000, guid: c71259e2e74d4ca4dabdb7e1b83cd64b, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 96e757fa3099b0947b0242c19f8f6299, type: 3}
+    textureRescued: {fileID: 2800000, guid: e2641146b3f362e4bbfc0aaffe88d056, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 3c9e62d51de6c52488034babb9c06458, type: 3}
+    textureRescued: {fileID: 2800000, guid: 94463fbce13b7094ba962155e3bce943, type: 3}
+  - textureName: 
+    texture: {fileID: 2800000, guid: 25eed681402ee174ea3ff9df0fd664e8, type: 3}
+    textureRescued: {fileID: 2800000, guid: 452cb57237713c64dbd9db97fd242914, type: 3}
+--- !u!114 &1484162851219218631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8512785291424627830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dad49a8c3da8ef740b151a39e9057019, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnableType: {fileID: 11400000, guid: 5165f11dc954cad4bbcc074898c9b952, type: 2}

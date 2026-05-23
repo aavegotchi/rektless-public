@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dcce88d49cae9c458f046bc7a81547f, type: 3}
+  m_Name: SkipBossPrefab.PATTERNS
+  m_EditorClassIdentifier: 
+  PrefabFolderPath: Prefabs/Level2
+  StarterPrefab: {fileID: 7196387924982369365, guid: c6d6b2f2b9254f54c8f2e9688689af5f, type: 3}
+  PatternPrefabs:
+  - {fileID: 7196387924982369365, guid: 7458de1857b15a6409cb00409a8afa7c, type: 3}
+  - {fileID: 7196387924982369365, guid: cfd7982d82e8151498075cc24009aed6, type: 3}
+  - {fileID: 7196387924982369365, guid: c703bcf0474647542ba66f6dee9e5eeb, type: 3}
+  - {fileID: 7196387924982369365, guid: 2610acf18042fe14d94ec6965b96aafa, type: 3}
+  - {fileID: 7196387924982369365, guid: 1653f36b8b0b63c4e937ea630218393e, type: 3}
+  - {fileID: 7196387924982369365, guid: 3269545d5faf0484f88b908ca83118fa, type: 3}
+  - {fileID: 7196387924982369365, guid: fed0a5b5eac47d74aa7f0dbff398a196, type: 3}
+  - {fileID: 7196387924982369365, guid: 99689123cffe6eb4ab9374649db34b23, type: 3}
+  - {fileID: 7196387924982369365, guid: 6e655f2582e137741acd6359c11a2db9, type: 3}
+  - {fileID: 7196387924982369365, guid: b2ee2e2d3305e28429fefd4449d72695, type: 3}
+  - {fileID: 7196387924982369365, guid: 88de199e023ffc345a13eb95de595ed8, type: 3}
+  - {fileID: 7196387924982369365, guid: 0511d4517010f904f8b3b93ca4a52be8, type: 3}
+  - {fileID: 7196387924982369365, guid: 54027589400e8a640a723feca0f44931, type: 3}
+  MeteorPattern: {fileID: 7196387924982369365, guid: 0f4610f26207f3447aac97c3b669921a, type: 3}
+  BossPrefab: {fileID: 7196387924982369365, guid: e47c05dded5b29a47b5d145fdf3bd74a, type: 3}
+  PatternCount: 1

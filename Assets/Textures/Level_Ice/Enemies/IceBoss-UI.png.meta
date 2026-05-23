@@ -1,0 +1,5042 @@
+fileFormatVersion: 2
+guid: 47be7bd4fa422134189530c072a65034
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 619
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8901b71f0b104c040be58a6ed9c64444
+      internalID: -448626075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 619
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502ab53cf47c8184e92d7578dc578bf1
+      internalID: -1687393979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 619
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601124899fb9b7a47b9212443119c647
+      internalID: -596285345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 619
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df669dd156e8545988c53702745a34
+      internalID: 2046269042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 619
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8fc351cc879cb4fb2c602c110cecc4
+      internalID: -1990720083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 619
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ddf74a47b1e9489cd9cc4dc077791
+      internalID: 1514943600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 619
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a05168a74ff9b4c8061653e383206f
+      internalID: 834323978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 517
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4167d2b28f4a0d4a9eb56c8ccda7848
+      internalID: 642537115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 517
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a450b28228e7f4886381c31c6dc2b0
+      internalID: 134444650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 517
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b963b9d32952bc4ab9b50ba0b1be08a
+      internalID: 942419799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 517
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde82022fbd025d4780dfd90c9b625e4
+      internalID: 1481508583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 517
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763045e9bbc48c4081ed00eff68bcbb
+      internalID: -1835092320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 517
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4def296fd783eb4e880a4d503980f08
+      internalID: 1737326474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 517
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68889807eafac49abd933c61bb4e86
+      internalID: 404033382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 517
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb973d402a6bdb4fb73610de6080adb
+      internalID: 1826253965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 415
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00952e27d0a284f936a23d90b827c7
+      internalID: -507751439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 415
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6298c3a0ce9b154d9ea724e60afdf5a
+      internalID: 85538907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 415
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae055031a7d2c4999306e577134bcb
+      internalID: -1456652210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 415
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff20736b3bdbe34faf4f9a8723d9e3b
+      internalID: 611565041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 415
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f640fc4e3546d884c96fe7816bfd755a
+      internalID: -150294390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 415
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a981e66990188d4193e7f7b69852326
+      internalID: -1005159815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 415
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64785bd7d0a73ff47806b6ca7cf7589a
+      internalID: 105370599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 415
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4901842d1420cc7419f4878ef4c615a7
+      internalID: 218088351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 313
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906d57200100bab418327053e35f4a87
+      internalID: -701677538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 372
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6fb04c14de2bc4da0851ef5e928eaa
+      internalID: -1944917246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 383
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6bb37f3b81bec4fa9652a330288f9d
+      internalID: 771451161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 396
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629621f6bd3d1e543874edddabfe65e5
+      internalID: -1396009296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 402
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bcc3bd3de83024d979e44bda3e592f
+      internalID: 288905842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 401
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227328fdeeb961843a1f565e08dadaa4
+      internalID: -749990725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 398
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ec62912d0b8d6418f5bfa4ac8ece76
+      internalID: 1739764010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 4827
+        y: 397
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd6f860c0692843b7d4d2609648cc7
+      internalID: -2109761880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 4839
+        y: 313
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a39b0772d3744f84b359aa76410d1
+      internalID: -281085596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 375
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3796af76b1a7ad942ae629824bf10d12
+      internalID: 1672346834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 5325
+        y: 394
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b52f5ccca7c0419df86e4e3cc9bad
+      internalID: -751058267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01710e0831a517343ae9ae111db48f22
+      internalID: 1457713957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 5517
+        y: 385
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03499d05c42dda744b2711e4b4a7539a
+      internalID: 1673225747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 313
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee2e7c14f96f246a46d240e024054f
+      internalID: 1429724433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a890383b4bf349824b9386adce55a
+      internalID: -82671008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 313
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145e66c1eabd2074d85a751d3b930963
+      internalID: -2141587407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 385
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64399963d02084144b02b3f05208d140
+      internalID: 1086626770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 5302
+        y: 384
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6407efca2febd09458cceb9a694e0c14
+      internalID: 66720035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 393
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f80786f5f550ac4a8066c27fd39ce3e
+      internalID: 1479832378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 313
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c5b41591aa7744ab937769fb457256
+      internalID: 2044500744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 313
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15476b7b11b79f44acbd27c164f9966
+      internalID: 85919106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 375
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c16a389479ce247b51a93a61106560
+      internalID: 201874716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 376
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2829fa35ad1cd45b6cc94f1080a67e
+      internalID: -1551022567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 370
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd043799aa35abb41b924bc7773f6c14
+      internalID: -1097213052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 313
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186ca09ddb82554ca1a7b0a3766b5a2
+      internalID: 1697239119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 371
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf620825bc199348aab8eda8f424c7c
+      internalID: 1701379726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 4397
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bb18007fe7812499fc29a3a34359e6
+      internalID: 175703380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 4402
+        y: 313
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2988c72742c27cc4c81cf748f03edcc4
+      internalID: 367860541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 384
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1f2e0bf42ba5d418b375c1f83497c9
+      internalID: 1055786877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 374
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe94817bf0d084886232c84d77a17e
+      internalID: -1120972151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_53
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 313
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b027543053d0d234798cdb2c2bc6d636
+      internalID: -1700764909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_54
+      rect:
+        serializedVersion: 2
+        x: 5269
+        y: 313
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e8b6a401199b469452aea1d8ae5f0
+      internalID: 1170389606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 5336
+        y: 382
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5219e88f6515d384481f91565cd048e2
+      internalID: 649741254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa8f6cc7e8de24395e5189b41de9d5
+      internalID: 207871176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 5553
+        y: 377
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf312bf6b5a03b4cb837ac38aee32c2
+      internalID: 416966946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 313
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301a77c66bb2c874299ff36851f18bc5
+      internalID: 1666108694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 313
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46289d61be46f2b48bdff4ae21292f7b
+      internalID: -152495651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_60
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 313
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c650247755944791e7e1972c5d329
+      internalID: -1640873639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_61
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 313
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca2a721ee06bd345af7b35ba4656754
+      internalID: 1163645127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_62
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 313
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f259fa4ddfdc349ba6e209bac7b21d
+      internalID: 839923424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_63
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 313
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20715f539e319940bebdace29f010ca
+      internalID: -1185487451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 313
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a36d002126a4848bb18e855aa6afab
+      internalID: -320659339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_65
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 313
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4776107472884cbc9a49e4f7401a0
+      internalID: -2102345992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_66
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 313
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97bf1328397f4f47bda123191812219
+      internalID: 514248325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_67
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 313
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8848bfcb387fa1d44a984534620301e6
+      internalID: -973384855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_68
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 313
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae0d23f5a86d3419b746dea6273d6f
+      internalID: -1972748741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_69
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 372
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d85a6b696c88439fab233de85f645
+      internalID: 1505326463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_70
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c699659f90056f4083e45ef573734d4
+      internalID: 1638593338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_71
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 342
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0177714182ac54ba56aa50a111e7f4
+      internalID: 2028652207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_72
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 359
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaccba0813539948993bfcba1becfb2
+      internalID: -137547764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_73
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 313
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467b0d975132ac4ea4710dec49ac982
+      internalID: 1571777414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_74
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 366
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24398c0e2dd906c40b6dd80c04112df4
+      internalID: -775230152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_75
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 372
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114dcec6c28aa941b56618f1bb2a3bd
+      internalID: -2134114649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_76
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 371
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3404b7cdcbc21478c98110c2b53d8f
+      internalID: 162988410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_77
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 313
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba9358a3154de14199a88db68fe3834
+      internalID: -281879685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_78
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 367
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1de684295239e4b9f4575c174c41c6
+      internalID: -1181139332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_79
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 313
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022de62c6deb53146b4360459c3a4059
+      internalID: -2092018335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_80
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 313
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27fcf02b8da44549a52966735509143
+      internalID: 1594281610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_81
+      rect:
+        serializedVersion: 2
+        x: 5116
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c1618bf9cd9a649a340b87652229d5
+      internalID: -1349517934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_82
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 366
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f977ca98f11c948a0fef28238b0958
+      internalID: -294970525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_83
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 315
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71ccba3cf4009d4e83ef84cc327a5b0
+      internalID: 960955226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_84
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 313
+        width: 154
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e5f50d24e924459b73c55d196a9dd
+      internalID: 206615384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_85
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da52c081e104b2049ae2ffe703d81360
+      internalID: 2135383658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_86
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 363
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dda891d0da9854da0e415f55186962
+      internalID: 457512088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_87
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 361
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19899af1ef9a2448ebf0593b06687a
+      internalID: -1001548080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_88
+      rect:
+        serializedVersion: 2
+        x: 5649
+        y: 313
+        width: 150
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a4ae2a39128934c81dc9005c3432b9
+      internalID: -1763162679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_89
+      rect:
+        serializedVersion: 2
+        x: 6094
+        y: 313
+        width: 138
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b894e4dc304ddf94fb41c2277ae618d5
+      internalID: -980479136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_90
+      rect:
+        serializedVersion: 2
+        x: 6323
+        y: 313
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d44897bd41646418396dbbf7a40c27
+      internalID: -119451904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_91
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 313
+        width: 103
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297d54da973c4c7479f5bdcd38bc7f14
+      internalID: -1225507613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_92
+      rect:
+        serializedVersion: 2
+        x: 6742
+        y: 313
+        width: 112
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd978d1e651f3249ae05b3b808a2585
+      internalID: 826640718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_93
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 313
+        width: 98
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171825ab71bc0304f8e4ce212770f942
+      internalID: 951034171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_94
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 348
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0442a9ad7f89aea4b8114e95a3326ab9
+      internalID: -1416190598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_95
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 358
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366b840730dcc7e44ab9be8fb8bb3f80
+      internalID: -1538137509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_96
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 354
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6adb814d009ab4448cdd82ae80784b7
+      internalID: 1049682037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_97
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 325
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b743094dd7454c4fb8ae1780333ec53
+      internalID: -904105053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_98
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 326
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fe8f1131896b0439a6c7c9b5a547dd
+      internalID: 563606576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_99
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 328
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52341357cbe53c642aa44458b462d736
+      internalID: -821657196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_100
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 358
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fcfe8c16571ab40b70dd3c08820184
+      internalID: 1281171922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_101
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 352
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27a6104908e6349914de22ef072d32
+      internalID: -1645524971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_102
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 352
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ca9e3c723e524cbb97e067c1d8e46
+      internalID: 1601436277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_103
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 358
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cd016480ab6174cadb9c5a4c30231b
+      internalID: -558005444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_104
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 357
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9a252112c85b445a6f9cc0520d6610
+      internalID: 1936467045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_105
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 354
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cbb0f16b83b384f9c9cbdf403d9be6
+      internalID: 1916230305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_106
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 353
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b0f5bcd727394888b1c5e5b114daa
+      internalID: -1590722385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_107
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 353
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70db8d0e47071e43949cf0946a27c52
+      internalID: -832288974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_108
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070e30464af0524080ad8806aa30602
+      internalID: 809456726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_109
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 344
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2357fab86cfe5e45a7f680a5def78b5
+      internalID: -1543337230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_110
+      rect:
+        serializedVersion: 2
+        x: 6409
+        y: 343
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ee9c145836c0d49bc753bafa894a42
+      internalID: 657683680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_111
+      rect:
+        serializedVersion: 2
+        x: 6519
+        y: 350
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda505ce3004ec04ebcf929f40d4a91c
+      internalID: 2001456472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_112
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 348
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5261c5c008065f4a866e0bb84ce6195
+      internalID: 1963921933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_113
+      rect:
+        serializedVersion: 2
+        x: 6847
+        y: 353
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8112cce31c00e847ba8298be5e5df9f
+      internalID: -309526726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_114
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 344
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6978d90f7ea68489478b4220ea4b90
+      internalID: 1932273776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_115
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8161c73ab767247b9bdfaabd5a0797
+      internalID: -879566532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_116
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 340
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4578a3508e2db40946024898df4824
+      internalID: -1439857121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_117
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 340
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb2816ee23db614ebc13708476888df
+      internalID: -677203568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_118
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fea3f0fc744d9d4081b8bf6e243cf00
+      internalID: 822366497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_119
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 341
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf4adbad962bb4eb714141b9394680
+      internalID: 1437858380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_120
+      rect:
+        serializedVersion: 2
+        x: 4375
+        y: 341
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9708c87bc2ddb64493873534180c16c
+      internalID: 44516233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_121
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 343
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f4d961fedcb84999b4bd84c907216
+      internalID: 917079448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_122
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 332
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd223b9529ce52c4aa0347ed171d3c81
+      internalID: 438438858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_123
+      rect:
+        serializedVersion: 2
+        x: 6296
+        y: 334
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1214e823f70eed2408d579f291166e66
+      internalID: 947896507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_124
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 345
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02210fdd9b58da4194494bdc7569cec
+      internalID: 578676291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_125
+      rect:
+        serializedVersion: 2
+        x: 6316
+        y: 342
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d19d6cd07f976429b1e0e5c326fb8c
+      internalID: 284769010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_126
+      rect:
+        serializedVersion: 2
+        x: 6321
+        y: 341
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029685a5cb1f89e45ada6f0c22294525
+      internalID: -464190313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_127
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 331
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fca0410f645737478a9ceffab457dff
+      internalID: 183322278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_128
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3d35b8ab1398a4eb2a4e993bb1f8ce
+      internalID: -853191470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_129
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 344
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c1d799ceb5c2e4da033a9cceab995c
+      internalID: -1429429591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_130
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 346
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95949bc4ee256c7498166080838bbf74
+      internalID: 1003670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_131
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 334
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42e9c7cd1c60e64d8dc028a7cd795b4
+      internalID: -456799672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_132
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 342
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cf29ad94dd616449c7edb7be6c5fc8
+      internalID: -1405675461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_133
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 330
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e09e054aa4aaee4e82d2e8b1dbe2811
+      internalID: -1185431645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_134
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 330
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af6ff404a2c21468efd3498f6f9722
+      internalID: 880675293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_135
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 333
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95225808b8ab6e4bbe6684064800bd3
+      internalID: -940960459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_136
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 314
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b730fc6914ac45b2f8d9fc8dc5a8d
+      internalID: 1479042603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_137
+      rect:
+        serializedVersion: 2
+        x: 6290
+        y: 321
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397fdfee85fc813488b6253cb667dfff
+      internalID: 1611342084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_138
+      rect:
+        serializedVersion: 2
+        x: 6310
+        y: 322
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca401c1b0d3ce8f4fb843e691778a08a
+      internalID: 1518489878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_139
+      rect:
+        serializedVersion: 2
+        x: 6424
+        y: 318
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce053f7b26b4045a8fce5507ed0c83
+      internalID: -463457990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_140
+      rect:
+        serializedVersion: 2
+        x: 6503
+        y: 325
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a53cb5924aac0469c4e308e7b5b6f6
+      internalID: 529019242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_141
+      rect:
+        serializedVersion: 2
+        x: 6526
+        y: 325
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcf0467d43958445992d8f29f7dcdb8
+      internalID: -1807698436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_142
+      rect:
+        serializedVersion: 2
+        x: 6641
+        y: 320
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5415b0e77624ca488387a26bddc0352
+      internalID: 1850296944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_143
+      rect:
+        serializedVersion: 2
+        x: 6649
+        y: 332
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2938c7e055f7b043a996d90fee7080c
+      internalID: -229186244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_144
+      rect:
+        serializedVersion: 2
+        x: 6657
+        y: 323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8168b6bfdaeab6641a2279f0532e304a
+      internalID: -1619605307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_145
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 330
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1640c4a18e279d74bb41ac3b34df6424
+      internalID: -394465039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_146
+      rect:
+        serializedVersion: 2
+        x: 6858
+        y: 327
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61a85c5438030e47b76d209459fc2de
+      internalID: -1446062334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_147
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 326
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcc5854b1bcfc7468bcb44a096e9fbe
+      internalID: -407387195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_148
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 211
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b2564f07dd2849b2d6cddf604986d
+      internalID: 1122467794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_149
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 211
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1cb62ac6f99db4bb43ce0087bdf928
+      internalID: 1178134382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_150
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 211
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa375903cedec274bb5e1ddfe826cc16
+      internalID: -127779865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_151
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 211
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07e4cdbafd33564a9b084267ac42074
+      internalID: -732444076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_152
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 211
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bac63b8e11c3a4780533216793ffa8
+      internalID: -511733026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_153
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 211
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d958e7746d7244ab15b4c6d2a6c686
+      internalID: 839395452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_154
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 211
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d64d7feb39b9549b9718f442ef403b
+      internalID: -1008536155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_155
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 211
+        width: 106
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acadff9ad99c614085d980c6c9d862a
+      internalID: -1018719563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_156
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804440d7b9dcbd4c99a5321f682456c
+      internalID: -2100336730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_157
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 109
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a18f9af2c48834289926c743b84c6b
+      internalID: 2048561830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_158
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 109
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ea29291408324589426da140b3ed6
+      internalID: 324823101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_159
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 109
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8ebb9db4f4bf74aae6830b6bc2f492
+      internalID: -1115878294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_160
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b99a9f848c23c468284b6607628a20
+      internalID: -1808377922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_161
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 109
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b9bed40d5a9b40a689d7492872ac1
+      internalID: 796852640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_162
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 109
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d441615fb27d4fac699939c303f4b
+      internalID: 1603539236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_163
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 109
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d956d0ce48f9444adc18a20b7f8057
+      internalID: -325694696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_164
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 109
+        width: 119
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb755e127c7847947ae15084204c3263
+      internalID: -1323393216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_165
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 109
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1434cb003cb841a94753cc52e00ca
+      internalID: 200561615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_166
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 109
+        width: 112
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f68f5f6a4191428c880b9b253b8ff
+      internalID: 1750162611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_167
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 132
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45b17f9b01e7641b69a4a6f89b37a5
+      internalID: -2024203402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_168
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d67b7690d89f84e8a9f029e9bd32e5
+      internalID: -2014639083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_169
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 125
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e764744f8247e174fba008482a5254de
+      internalID: -1938322025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_170
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 109
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2fc7fe1b384c440a4d6f7b498b75e2
+      internalID: 783164293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_171
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 129
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bdeade19ee521418d1905ca7d9880b
+      internalID: 809768541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_172
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 127
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc098daf6ac8443a7389d8a95aeda7
+      internalID: -1409891710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_173
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 109
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073766ed136742e4387ab0ef76ee85b6
+      internalID: 299950929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_174
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 125
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d7aa8bae5a1a40a6999e07d1e32d7
+      internalID: -618303144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_175
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 125
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba5f44256259043988f2569e8a2453
+      internalID: -1936171981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_176
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 109
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b084c84ebd49d94d80d589dff3c89ad
+      internalID: 1263054387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_177
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 109
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac999209cedaa045981eefda89033ae
+      internalID: 940502736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_178
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 110
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea20d5ec98bbc94c8589056710d5e54
+      internalID: 759363442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_179
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 109
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ba900433ef0da48bb59682d482b57e
+      internalID: 1211148848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_180
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 7
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffbc94a0920a4f4096bf7ba41fd5092
+      internalID: 256169883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_181
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 7
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422ec0c5edd1e14eac43068ba5007cb
+      internalID: -526984750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_182
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 7
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5467f4166173044ac6030daa7dd557
+      internalID: 639048662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_183
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 7
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0867247aa89b34a4a81d6d20080517cd
+      internalID: 1132470760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_184
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 7
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051360a097dab05479195c2f2ffc8173
+      internalID: 882818728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_185
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 9
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99bb4d16ca5ba4fae2b2251cb3f0c7
+      internalID: 2001901766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_186
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 20
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310d31ce577ced54aa3964b4bc8fd61b
+      internalID: 825128507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_187
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 34
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b96d5bf5dee4847bc75dc90f3edd7a
+      internalID: -1335050094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_188
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 41
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec568957f33b24aa29cd6e35d33fe2
+      internalID: 2026470058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_189
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 41
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a5a0cbfb30d5e40a71d2512769ee48
+      internalID: 427992445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_190
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 41
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a42b25eda860740bb22023da3f591a
+      internalID: -1722157596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_191
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 41
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5bea7eb07ea7143a1e3f245a828989
+      internalID: 2140333132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_192
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 39
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a365d328516d62040b329243b3c916f4
+      internalID: -1721590860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_193
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 7
+        width: 179
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6075862cc497ab41b4a68a70c185d30
+      internalID: 137435661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_194
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 7
+        width: 180
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc3abf9b7c2dfc40b7ae950e443a292
+      internalID: -1356079053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_195
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 7
+        width: 181
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655fd727f4af89840a1b77ab9a7f182d
+      internalID: 134354160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_196
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 7
+        width: 176
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1f6025f2207904b8ca7268d387fcb0
+      internalID: -1546725354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_197
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 7
+        width: 176
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7543ab80aee34783643f10ee5ad40
+      internalID: 1101194745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_198
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 49
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e49ce6d675e3949b0fa21fb57f853c
+      internalID: 2105063714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_199
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 7
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc06004d9f44a3742b0edac038f10ce0
+      internalID: -2139966412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_200
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 7
+        width: 129
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ce32219d24f14cbd3bd1ab22d8581
+      internalID: -940445699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_201
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 7
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaf71a3ef9e5e041b5bf58ae740e614
+      internalID: 1112600644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_202
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a13adf05f515784582a16c6c8a20a89
+      internalID: 433035848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_203
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 7
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d74e2d28cb75c48bf22526caff681a
+      internalID: -1320676735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_204
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 30
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04967c7350f31fb4eb833cad94b3a56d
+      internalID: 1459074426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_205
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d3fd1e29426e44cb96a2797144bcfa
+      internalID: -538988950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_206
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b8e5f659a1e440bfd91d14cf26930
+      internalID: -1772851426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_207
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 23
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d83cdaa2b23aaf43b586ce26dd6422d
+      internalID: 1219123022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_208
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 7
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0362970cb215bcf4db84d30f4daf36e9
+      internalID: -922294290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_209
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 7
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382149011d9ef3343881d98db77e65b0
+      internalID: 1688560162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_210
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 7
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bba251b74fcbf4fb742d7e76239a80
+      internalID: 131090975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_211
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 7
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab32a0e3ec61b7f48958c9f9bb93b752
+      internalID: -956663361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBoss-Sheet 1_212
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e53eb429d7e20459f2eaba20b76398
+      internalID: 1183954241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceBoss-Sheet 1_0: -448626075
+      IceBoss-Sheet 1_1: -1687393979
+      IceBoss-Sheet 1_10: 1481508583
+      IceBoss-Sheet 1_100: 1281171922
+      IceBoss-Sheet 1_101: -1645524971
+      IceBoss-Sheet 1_102: 1601436277
+      IceBoss-Sheet 1_103: -558005444
+      IceBoss-Sheet 1_104: 1936467045
+      IceBoss-Sheet 1_105: 1916230305
+      IceBoss-Sheet 1_106: -1590722385
+      IceBoss-Sheet 1_107: -832288974
+      IceBoss-Sheet 1_108: 809456726
+      IceBoss-Sheet 1_109: -1543337230
+      IceBoss-Sheet 1_11: -1835092320
+      IceBoss-Sheet 1_110: 657683680
+      IceBoss-Sheet 1_111: 2001456472
+      IceBoss-Sheet 1_112: 1963921933
+      IceBoss-Sheet 1_113: -309526726
+      IceBoss-Sheet 1_114: 1932273776
+      IceBoss-Sheet 1_115: -879566532
+      IceBoss-Sheet 1_116: -1439857121
+      IceBoss-Sheet 1_117: -677203568
+      IceBoss-Sheet 1_118: 822366497
+      IceBoss-Sheet 1_119: 1437858380
+      IceBoss-Sheet 1_12: 1737326474
+      IceBoss-Sheet 1_120: 44516233
+      IceBoss-Sheet 1_121: 917079448
+      IceBoss-Sheet 1_122: 438438858
+      IceBoss-Sheet 1_123: 947896507
+      IceBoss-Sheet 1_124: 578676291
+      IceBoss-Sheet 1_125: 284769010
+      IceBoss-Sheet 1_126: -464190313
+      IceBoss-Sheet 1_127: 183322278
+      IceBoss-Sheet 1_128: -853191470
+      IceBoss-Sheet 1_129: -1429429591
+      IceBoss-Sheet 1_13: 404033382
+      IceBoss-Sheet 1_130: 1003670
+      IceBoss-Sheet 1_131: -456799672
+      IceBoss-Sheet 1_132: -1405675461
+      IceBoss-Sheet 1_133: -1185431645
+      IceBoss-Sheet 1_134: 880675293
+      IceBoss-Sheet 1_135: -940960459
+      IceBoss-Sheet 1_136: 1479042603
+      IceBoss-Sheet 1_137: 1611342084
+      IceBoss-Sheet 1_138: 1518489878
+      IceBoss-Sheet 1_139: -463457990
+      IceBoss-Sheet 1_14: 1826253965
+      IceBoss-Sheet 1_140: 529019242
+      IceBoss-Sheet 1_141: -1807698436
+      IceBoss-Sheet 1_142: 1850296944
+      IceBoss-Sheet 1_143: -229186244
+      IceBoss-Sheet 1_144: -1619605307
+      IceBoss-Sheet 1_145: -394465039
+      IceBoss-Sheet 1_146: -1446062334
+      IceBoss-Sheet 1_147: -407387195
+      IceBoss-Sheet 1_148: 1122467794
+      IceBoss-Sheet 1_149: 1178134382
+      IceBoss-Sheet 1_15: -507751439
+      IceBoss-Sheet 1_150: -127779865
+      IceBoss-Sheet 1_151: -732444076
+      IceBoss-Sheet 1_152: -511733026
+      IceBoss-Sheet 1_153: 839395452
+      IceBoss-Sheet 1_154: -1008536155
+      IceBoss-Sheet 1_155: -1018719563
+      IceBoss-Sheet 1_156: -2100336730
+      IceBoss-Sheet 1_157: 2048561830
+      IceBoss-Sheet 1_158: 324823101
+      IceBoss-Sheet 1_159: -1115878294
+      IceBoss-Sheet 1_16: 85538907
+      IceBoss-Sheet 1_160: -1808377922
+      IceBoss-Sheet 1_161: 796852640
+      IceBoss-Sheet 1_162: 1603539236
+      IceBoss-Sheet 1_163: -325694696
+      IceBoss-Sheet 1_164: -1323393216
+      IceBoss-Sheet 1_165: 200561615
+      IceBoss-Sheet 1_166: 1750162611
+      IceBoss-Sheet 1_167: -2024203402
+      IceBoss-Sheet 1_168: -2014639083
+      IceBoss-Sheet 1_169: -1938322025
+      IceBoss-Sheet 1_17: -1456652210
+      IceBoss-Sheet 1_170: 783164293
+      IceBoss-Sheet 1_171: 809768541
+      IceBoss-Sheet 1_172: -1409891710
+      IceBoss-Sheet 1_173: 299950929
+      IceBoss-Sheet 1_174: -618303144
+      IceBoss-Sheet 1_175: -1936171981
+      IceBoss-Sheet 1_176: 1263054387
+      IceBoss-Sheet 1_177: 940502736
+      IceBoss-Sheet 1_178: 759363442
+      IceBoss-Sheet 1_179: 1211148848
+      IceBoss-Sheet 1_18: 611565041
+      IceBoss-Sheet 1_180: 256169883
+      IceBoss-Sheet 1_181: -526984750
+      IceBoss-Sheet 1_182: 639048662
+      IceBoss-Sheet 1_183: 1132470760
+      IceBoss-Sheet 1_184: 882818728
+      IceBoss-Sheet 1_185: 2001901766
+      IceBoss-Sheet 1_186: 825128507
+      IceBoss-Sheet 1_187: -1335050094
+      IceBoss-Sheet 1_188: 2026470058
+      IceBoss-Sheet 1_189: 427992445
+      IceBoss-Sheet 1_19: -150294390
+      IceBoss-Sheet 1_190: -1722157596
+      IceBoss-Sheet 1_191: 2140333132
+      IceBoss-Sheet 1_192: -1721590860
+      IceBoss-Sheet 1_193: 137435661
+      IceBoss-Sheet 1_194: -1356079053
+      IceBoss-Sheet 1_195: 134354160
+      IceBoss-Sheet 1_196: -1546725354
+      IceBoss-Sheet 1_197: 1101194745
+      IceBoss-Sheet 1_198: 2105063714
+      IceBoss-Sheet 1_199: -2139966412
+      IceBoss-Sheet 1_2: -596285345
+      IceBoss-Sheet 1_20: -1005159815
+      IceBoss-Sheet 1_200: -940445699
+      IceBoss-Sheet 1_201: 1112600644
+      IceBoss-Sheet 1_202: 433035848
+      IceBoss-Sheet 1_203: -1320676735
+      IceBoss-Sheet 1_204: 1459074426
+      IceBoss-Sheet 1_205: -538988950
+      IceBoss-Sheet 1_206: -1772851426
+      IceBoss-Sheet 1_207: 1219123022
+      IceBoss-Sheet 1_208: -922294290
+      IceBoss-Sheet 1_209: 1688560162
+      IceBoss-Sheet 1_21: 105370599
+      IceBoss-Sheet 1_210: 131090975
+      IceBoss-Sheet 1_211: -956663361
+      IceBoss-Sheet 1_212: 1183954241
+      IceBoss-Sheet 1_22: 218088351
+      IceBoss-Sheet 1_23: -701677538
+      IceBoss-Sheet 1_24: -1944917246
+      IceBoss-Sheet 1_25: 771451161
+      IceBoss-Sheet 1_26: -1396009296
+      IceBoss-Sheet 1_27: 288905842
+      IceBoss-Sheet 1_28: -749990725
+      IceBoss-Sheet 1_29: 1739764010
+      IceBoss-Sheet 1_3: 2046269042
+      IceBoss-Sheet 1_30: -2109761880
+      IceBoss-Sheet 1_31: -281085596
+      IceBoss-Sheet 1_32: 1672346834
+      IceBoss-Sheet 1_33: -751058267
+      IceBoss-Sheet 1_34: 1457713957
+      IceBoss-Sheet 1_35: 1673225747
+      IceBoss-Sheet 1_36: 1429724433
+      IceBoss-Sheet 1_37: -82671008
+      IceBoss-Sheet 1_38: -2141587407
+      IceBoss-Sheet 1_39: 1086626770
+      IceBoss-Sheet 1_4: -1990720083
+      IceBoss-Sheet 1_40: 66720035
+      IceBoss-Sheet 1_41: 1479832378
+      IceBoss-Sheet 1_42: 2044500744
+      IceBoss-Sheet 1_43: 85919106
+      IceBoss-Sheet 1_44: 201874716
+      IceBoss-Sheet 1_45: -1551022567
+      IceBoss-Sheet 1_46: -1097213052
+      IceBoss-Sheet 1_47: 1697239119
+      IceBoss-Sheet 1_48: 1701379726
+      IceBoss-Sheet 1_49: 175703380
+      IceBoss-Sheet 1_5: 1514943600
+      IceBoss-Sheet 1_50: 367860541
+      IceBoss-Sheet 1_51: 1055786877
+      IceBoss-Sheet 1_52: -1120972151
+      IceBoss-Sheet 1_53: -1700764909
+      IceBoss-Sheet 1_54: 1170389606
+      IceBoss-Sheet 1_55: 649741254
+      IceBoss-Sheet 1_56: 207871176
+      IceBoss-Sheet 1_57: 416966946
+      IceBoss-Sheet 1_58: 1666108694
+      IceBoss-Sheet 1_59: -152495651
+      IceBoss-Sheet 1_6: 834323978
+      IceBoss-Sheet 1_60: -1640873639
+      IceBoss-Sheet 1_61: 1163645127
+      IceBoss-Sheet 1_62: 839923424
+      IceBoss-Sheet 1_63: -1185487451
+      IceBoss-Sheet 1_64: -320659339
+      IceBoss-Sheet 1_65: -2102345992
+      IceBoss-Sheet 1_66: 514248325
+      IceBoss-Sheet 1_67: -973384855
+      IceBoss-Sheet 1_68: -1972748741
+      IceBoss-Sheet 1_69: 1505326463
+      IceBoss-Sheet 1_7: 642537115
+      IceBoss-Sheet 1_70: 1638593338
+      IceBoss-Sheet 1_71: 2028652207
+      IceBoss-Sheet 1_72: -137547764
+      IceBoss-Sheet 1_73: 1571777414
+      IceBoss-Sheet 1_74: -775230152
+      IceBoss-Sheet 1_75: -2134114649
+      IceBoss-Sheet 1_76: 162988410
+      IceBoss-Sheet 1_77: -281879685
+      IceBoss-Sheet 1_78: -1181139332
+      IceBoss-Sheet 1_79: -2092018335
+      IceBoss-Sheet 1_8: 134444650
+      IceBoss-Sheet 1_80: 1594281610
+      IceBoss-Sheet 1_81: -1349517934
+      IceBoss-Sheet 1_82: -294970525
+      IceBoss-Sheet 1_83: 960955226
+      IceBoss-Sheet 1_84: 206615384
+      IceBoss-Sheet 1_85: 2135383658
+      IceBoss-Sheet 1_86: 457512088
+      IceBoss-Sheet 1_87: -1001548080
+      IceBoss-Sheet 1_88: -1763162679
+      IceBoss-Sheet 1_89: -980479136
+      IceBoss-Sheet 1_9: 942419799
+      IceBoss-Sheet 1_90: -119451904
+      IceBoss-Sheet 1_91: -1225507613
+      IceBoss-Sheet 1_92: 826640718
+      IceBoss-Sheet 1_93: 951034171
+      IceBoss-Sheet 1_94: -1416190598
+      IceBoss-Sheet 1_95: -1538137509
+      IceBoss-Sheet 1_96: 1049682037
+      IceBoss-Sheet 1_97: -904105053
+      IceBoss-Sheet 1_98: 563606576
+      IceBoss-Sheet 1_99: -821657196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DataProjectiles
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 3784ff3e436b3094090d7ddd028c8850, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.size
+    value: 28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[0].name
+    value: Baarbarian
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[0].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 236f2bd1143339949a6573d324ac86f8, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[1].name
+    value: Citaadel Knight
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[1].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 4c23852b38cf57b4286c41fb25a8da2d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[2].name
+    value: Coderdan
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[2].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 94d1f71566f2f2d47bea679c44999103, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[3].name
+    value: DAO Summoner
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[3].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 8da779dd3e88e9b4da8dc60fc6407a68, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[4].name
+    value: Fairy
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[4].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: bc99d28598cdaea439d124b7188d6910, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[5].name
+    value: FAKE PEPE
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[5].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 8da779dd3e88e9b4da8dc60fc6407a68, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[6].name
+    value: Farmer
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[6].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: ed934bcc3d6cd6e43aa6a44266095807, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[7].name
+    value: Gaame Mode
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[7].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[8].name
+    value: Geisha
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[8].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[9].name
+    value: Gldnxross
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[9].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: ebd633a88fcffb34792ad1b738c4f3fe, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[10].name
+    value: Gotchi AAVE
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[10].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[11].name
+    value: Gotchi DAI
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[11].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[12].name
+    value: Gotchi ETH
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[12].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[13].name
+    value: Gotchi LINK
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[13].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[14].name
+    value: 'Gotchidator '
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[14].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: c6b67b07fe8efe24fbe3ca3607efb8f9, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[15].name
+    value: Infantry
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[15].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 82f94beffe8d6dd4c9f5d017d48ed371, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[16].name
+    value: Laozigotchi
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[16].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 4ce4fafb0cbe48e468b34dad8629187c, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[17].name
+    value: Lil Bubble
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[17].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 30d6bfcd6fae56640999a35276ebbe9d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[18].name
+    value: Mudgen
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[18].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: d47c330ae5fd3664f83a012e78088835, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[19].name
+    value: REKTLESS
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[19].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[20].name
+    value: Shogungotchi
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[20].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: b1ea9c3b554ac4e4d92f599b2443c11d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[21].name
+    value: Skater
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[21].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 3cb208efd1fe03f449803b823f66da72, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[22].name
+    value: Steampunk
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[22].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[23].name
+    value: Super Aagent
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[23].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 0e23a7c72ed7d4c4082459e63304f738, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[24].name
+    value: Supreme Portal Mage
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[24].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 739172d2dad1761438f2301327def45d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[25].name
+    value: VR Gamer
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[25].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 9e3a8c686c86ab54897e92d277676919, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[26].name
+    value: Wizard
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[26].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: d47c330ae5fd3664f83a012e78088835, type: 2}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[27].name
+    value: XIBOT
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CharacterProjectiles.Array.data[27].ProjetileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: e5e79c7c06d9c90428edf86473e68bb6, type: 2}
+  - target: {fileID: 0}
+    propertyPath: characterSelector
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DefaultProjectileAnimator
+    value: 
+    objectReference: {fileID: 9100000, guid: 94d1f71566f2f2d47bea679c44999103, type: 2}
+  m_ExcludedProperties: []

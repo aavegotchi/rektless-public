@@ -1,0 +1,24 @@
+{
+  "name": "rektless",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "sh build.sh",
+    "clean": "rm -rf Builds apps/aarena_clone_Linux64 apps/aarena_clone_WebGL",
+    "deploy": "sh deploy.sh",
+    "upload": "sh upload.sh",
+    "dev": "npx http-server -c-1 ./Builds/WebGL",
+    "build-webgl-win": "robocopy \"%cd%\\apps\\aarena\" \"%cd%\\apps\\aarena_clone_WebGL\" /MIR /XD \"Library\" \"Temp\" \"Obj\" \"Build\" \"Logs\" \"UserSettings\" && sleep 2 && call \"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.32f1\\Editor\\Unity.exe\" -batchmode -nographics -quit -projectPath \"%cd%\\apps\\aarena_clone_WebGL\" -executeMethod MultiPlatformBuildScript.Build -logFile - -buildPath \"%cd%\\Builds\\WebGL\" -buildTarget \"WebGL\" && call powershell -c \"(New-Object Media.SoundPlayer '%cd%\\apps\\aarena\\Assets\\TPSBR\\Audio\\not_a_joke.mp3').PlaySync();\" && call npx http-server \"%cd%\\Builds\\WebGL\"",
+    "build-linux-win": "robocopy \"%cd%\\apps\\aarena\" \"%cd%\\apps\\aarena_clone_Linux64\" /MIR /XD \"Library\" \"Temp\" \"Obj\" \"Build\" \"Logs\" \"UserSettings\" && sleep 2 && call \"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.32f1\\Editor\\Unity.exe\" -batchmode -nographics -quit -projectPath \"%cd%\\apps\\aarena_clone_Linux64\" -executeMethod MultiPlatformBuildScript.Build -logFile - -buildPath \"%cd%\\Builds\\Linux64\" -buildTarget \"Linux64\" && call powershell -c \"(New-Object Media.SoundPlayer '%cd%\\apps\\aarena\\Assets\\TPSBR\\Audio\\not_a_joke.mp3').PlaySync();\"",
+    "build-webgl-mac": "rsync -av --exclude 'Library/' --exclude 'Temp/' --exclude 'Obj/' --exclude 'Build/' --exclude 'Logs/' --exclude 'UserSettings/' \"$(pwd)/apps/aarena/\" \"$(pwd)/apps/aarena_clone_WebGL/\" && /Applications/Unity/Hub/Editor/2022.3.32f1/Unity.app/Contents/MacOS/Unity -batchmode -nographics -quit -projectPath \"$(pwd)/apps/aarena_clone_WebGL\" -executeMethod MultiPlatformBuildScript.Build -logFile - -buildPath \"$(pwd)/Builds/WebGL\" -buildTarget \"WebGL\" && afplay $(pwd)/apps/aarena/Assets/TPSBR/Audio/not_a_joke.mp3 && npx http-server \"$(pwd)/Builds/WebGL\"",
+    "build-linux-mac": "rsync -av --exclude 'Library/' --exclude 'Temp/' --exclude 'Obj/' --exclude 'Build/' --exclude 'Logs/' --exclude 'UserSettings/' \"$(pwd)/apps/aarena/\" \"$(pwd)/apps/aarena_clone_Linux64/\" && /Applications/Unity/Hub/Editor/2022.3.32f1/Unity.app/Contents/MacOS/Unity -batchmode -nographics -quit -projectPath \"$(pwd)/apps/aarena_clone_Linux64\" -executeMethod MultiPlatformBuildScript.Build -logFile - -buildPath \"$(pwd)/Builds/Linux64\" -buildTarget \"Linux64\" && afplay $(pwd)/apps/aarena/Assets/TPSBR/Audio/not_a_joke.mp3"
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@nrwl/nx-cloud": "latest",
+    "@nrwl/workspace": "15.9.2",
+    "nx": "15.9.2"
+  }
+}

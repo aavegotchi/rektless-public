@@ -1,0 +1,4496 @@
+fileFormatVersion: 2
+guid: 37dfab9e54218e14598799835fa68cd4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KEK-SheetUI_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 671
+        width: 117
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d0cfabd944e14a80b044987115c19
+      internalID: 1717562511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 672
+        width: 117
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee1ddec8c7f938459ea150403a57b1c
+      internalID: 982975150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 673
+        width: 117
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3601a87fe00cf084b94c02f3ac505cd7
+      internalID: -1096007716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 673
+        width: 117
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dbe8cc3b2feb849b62fdca30401ad6
+      internalID: -1656858856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_4
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 673
+        width: 119
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5779ba77c4ff2e642b8c336480a33030
+      internalID: 1120411047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_5
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 672
+        width: 119
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666214f2c614bd4b92c0d0d0598144c
+      internalID: 853566391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_6
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 671
+        width: 119
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634ac7ca1a1f5a947bd078a4ce33f66b
+      internalID: -12577096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_7
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 671
+        width: 117
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651aece83bd24724f917aa4a368bfce3
+      internalID: -961265283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 561
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81eb03b7e577204e92eaefd6ad9737d
+      internalID: -1448818559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 562
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1741169b83b63974c8e3d07ee1ab7557
+      internalID: -806322569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 563
+        width: 112
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29e1ddc8c7d2154e885e6618e95986a
+      internalID: 520497930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_11
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 563
+        width: 112
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c47e163d894f47bd110a6abf53048
+      internalID: 543359139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_12
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 563
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ffb2423e781d4091283f272142ab6
+      internalID: 2126656589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_13
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 562
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28edefb9549cd1347882c85977434e6e
+      internalID: -1919864525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_14
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 561
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41b558f42a7ce4995fb4b411c21286
+      internalID: 714356919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_15
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 561
+        width: 112
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea18d53f50228104fac523dbe7bdf304
+      internalID: -719386170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 451
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a5ccc23592ae54183cd7338f70c9c0
+      internalID: -266059017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 452
+        width: 123
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a348a035edb47409370adc3906a6d5
+      internalID: -1500341486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_18
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 451
+        width: 117
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a4fa52b193e5549ae57820748e9214
+      internalID: -1186062374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 450
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3810144db442f4ca81ba3b8c77c0cf
+      internalID: 1995960428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_20
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 450
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b98e18d7f32f714188998df2eafa4f8
+      internalID: -1995713631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_21
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 451
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fa24f6898689d42b07da51f1c2f450
+      internalID: -1624308509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_22
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 452
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9b5056a33770c4cbc8c92c81c21e50
+      internalID: -1630500631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_23
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 451
+        width: 117
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b850a254de38648b13e6e36943f9a8
+      internalID: -1279618556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_24
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 402
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd908beff90c3d4eb3152dd0b0624ee
+      internalID: -13831352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_25
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 405
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd84d5a0ca0028e4f838e51dfd69e98d
+      internalID: 348034460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_26
+      rect:
+        serializedVersion: 2
+        x: 6013
+        y: 417
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948a1945d7c297478d1d223801b0031
+      internalID: 133873481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_27
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 419
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f4d49ce603d245ad6e5e91b8393be
+      internalID: -66239700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_28
+      rect:
+        serializedVersion: 2
+        x: 6191
+        y: 416
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73719a9e723f2c4c8e236b7c2450209
+      internalID: -294959263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_29
+      rect:
+        serializedVersion: 2
+        x: 6243
+        y: 402
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e257f023a4f43468a34a1b7df8b120
+      internalID: 1681748866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_30
+      rect:
+        serializedVersion: 2
+        x: 6417
+        y: 335
+        width: 138
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad03e1678d83b84eaf801e7d040429c
+      internalID: 1346899831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_31
+      rect:
+        serializedVersion: 2
+        x: 7242
+        y: 420
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf9ce585ed9f34ca07d8789ca502da
+      internalID: 772015710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_32
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 416
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c74dc28fb21d45b3e310561907f78
+      internalID: 1657792474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_33
+      rect:
+        serializedVersion: 2
+        x: 7682
+        y: 337
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf161627eaa09c4fbafd3987e963392
+      internalID: -333198070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 341
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a3ffb2e51eace47a732942e9834584
+      internalID: 1311890002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 342
+        width: 123
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bfcb24b0a445f4da616d899932c69c
+      internalID: -1666182008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_36
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 341
+        width: 117
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552d756af73d084ea4eb030bedd8b8d
+      internalID: 1936410829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_37
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 340
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be3d37251d4583449fa64fe9d4c5d70
+      internalID: 2061836812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_38
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 340
+        width: 95
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ffea9df780b10459d75d058431ad1c
+      internalID: -1207379086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_39
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 339
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3eff53dfd244740bb239997a88281b
+      internalID: 2033281150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_40
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 342
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea6b0a0b1d71a42815c4ad51d6d2d4
+      internalID: 1914366308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_41
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 336
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5597bb9207df5bf4dbfa65b04d60cd60
+      internalID: -627949820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_42
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 338
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035014d5837da64eae1d74bc5c7ef46
+      internalID: 2146137029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_43
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 339
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641af76a958ec4a46b987cba990690e7
+      internalID: 299506976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_44
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 342
+        width: 116
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002fdebf84b8414bbedbd6402265c3d
+      internalID: 1173881439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_45
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 346
+        width: 104
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbf3e996093ad4da1756ccd78b1b2e
+      internalID: 828398797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_46
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 346
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea50fb3db922e4aba61e1722ead3a9
+      internalID: -37474914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_47
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 343
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25985464fdbe8b4e84cac3f887c6d40
+      internalID: 235615462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_48
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 342
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677acdab6127d884c8f61135d1317935
+      internalID: -846920343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_49
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 342
+        width: 122
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423f1fe7725a3b448c768a43bfa97b6
+      internalID: 289341651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_50
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 342
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b9e5369e8b1544784936258e227907
+      internalID: -1459791777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_51
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 342
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a44777a5c4a049b4450dbdf9a2bfb
+      internalID: 566067177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_52
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 342
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c6ca2a1be84d147bd0a6fa52d1a027
+      internalID: -1519598852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_53
+      rect:
+        serializedVersion: 2
+        x: 4921
+        y: 339
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd37712c523269c478cfb1f1fe43c760
+      internalID: -207196160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_54
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 337
+        width: 115
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395f239ce45d11341be213db27818b07
+      internalID: 1761794870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_55
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 337
+        width: 129
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88687cb8d487a47bc335be1a8ba7b9
+      internalID: -1140696600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_56
+      rect:
+        serializedVersion: 2
+        x: 5658
+        y: 337
+        width: 132
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935daffa1ef8b841b96c32c02f577f2
+      internalID: -401044784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_57
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 393
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c15c7386dc3e6147a154dc6994800b4
+      internalID: 1704076601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_58
+      rect:
+        serializedVersion: 2
+        x: 5911
+        y: 337
+        width: 137
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d1ee7a4d2b6d448cb4586b3245cc5
+      internalID: -530175814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_59
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 411
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d0ec6fbbfa37645a30681ee245d61f
+      internalID: 367739055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_60
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 410
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c310f80f524ff4b86a60ae16c5834f
+      internalID: 465413148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_61
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 414
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3037b512be8d55b4b894df9b8c4e54b8
+      internalID: 1788949283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_62
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 414
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c6a7b248008f4989070931fad334e
+      internalID: -312942892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_63
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 404
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a14cff5a2ce350488cd1f694cab195b
+      internalID: -1756166433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_64
+      rect:
+        serializedVersion: 2
+        x: 6217
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b7da8ce1bebf43b968acfa902e836
+      internalID: 1898653205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_65
+      rect:
+        serializedVersion: 2
+        x: 6226
+        y: 399
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd73bda0b5a6524db895ade3d7a8d13
+      internalID: 177028475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_66
+      rect:
+        serializedVersion: 2
+        x: 6231
+        y: 409
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be18e977c3da3e449e5d0b28e21de1e
+      internalID: -68359076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_67
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 407
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba73b4e474950c4abb1037dff634c47
+      internalID: -154136114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_68
+      rect:
+        serializedVersion: 2
+        x: 6484
+        y: 412
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68607d133d23714e8cb8bb6daeab4b3
+      internalID: 1207005828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_69
+      rect:
+        serializedVersion: 2
+        x: 6499
+        y: 408
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340efcc6a1df47498cb34ea5a442fb9
+      internalID: -146870215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_70
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 404
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a11632e7bf0ab84ca1a3a4ef29f1523
+      internalID: -1957940480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_71
+      rect:
+        serializedVersion: 2
+        x: 6670
+        y: 337
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d48669b5939d4dba1f2c228c94911
+      internalID: 468452194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_72
+      rect:
+        serializedVersion: 2
+        x: 6986
+        y: 405
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce75870b1df8d408342ab790bb46cf
+      internalID: -1086561604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_73
+      rect:
+        serializedVersion: 2
+        x: 7237
+        y: 393
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae621bff71448141819d2c0d7f7a3c9
+      internalID: -549511637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_74
+      rect:
+        serializedVersion: 2
+        x: 7241
+        y: 411
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d126617b6d114d81c50c7a64c30b3
+      internalID: 1968373185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_75
+      rect:
+        serializedVersion: 2
+        x: 7250
+        y: 399
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bdd9f0f1cbb224bbe4aceb5c0c5af1
+      internalID: -312852085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_76
+      rect:
+        serializedVersion: 2
+        x: 7429
+        y: 337
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0e60e5f7ea8874eae9ebea357c9ef5
+      internalID: -1153689547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_77
+      rect:
+        serializedVersion: 2
+        x: 7492
+        y: 401
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b0bc8993b53e4f9d2ff7f8c18a44b
+      internalID: 1599273468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_78
+      rect:
+        serializedVersion: 2
+        x: 6164
+        y: 336
+        width: 118
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f2a4032bee9d84ca3a81e0c7c46873
+      internalID: -1942890090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_79
+      rect:
+        serializedVersion: 2
+        x: 6258
+        y: 397
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0edcb605b339e48bfd241a4f754589
+      internalID: 1598607750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_80
+      rect:
+        serializedVersion: 2
+        x: 6923
+        y: 337
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe7e170aecc061468700c3d2810530f
+      internalID: -1783234529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_81
+      rect:
+        serializedVersion: 2
+        x: 6997
+        y: 394
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f70a00a69614c48b848fa8424cf4a0
+      internalID: 505855030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_82
+      rect:
+        serializedVersion: 2
+        x: 7227
+        y: 395
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a897a903cbac6174a86363fce459a771
+      internalID: -281362318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_83
+      rect:
+        serializedVersion: 2
+        x: 6521
+        y: 383
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5923961ff5d49b42962183a46ba903b
+      internalID: -822618309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_84
+      rect:
+        serializedVersion: 2
+        x: 6781
+        y: 384
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ec72827663766478fc1c1e38ab5020
+      internalID: -225169438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_85
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 337
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c74c9e0a344954eb38ae137edea4a5
+      internalID: 974899794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_86
+      rect:
+        serializedVersion: 2
+        x: 7935
+        y: 337
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0de5af25f11d44e9abbb06f639622a
+      internalID: 838266947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_87
+      rect:
+        serializedVersion: 2
+        x: 8188
+        y: 337
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95988267773a7a42a1e35f1fd10079d
+      internalID: 65798525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_88
+      rect:
+        serializedVersion: 2
+        x: 8441
+        y: 337
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61f6318d1adce549b726aeb2d2b4114
+      internalID: -715649940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_89
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 368
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f988f8c5ca722614aa27ba6f9aef4dc1
+      internalID: 406287468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_90
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 364
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b86099021375d84f98ba943f38384d5
+      internalID: 749367111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_91
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 366
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb87eda48edc3e48bce784cd838671b
+      internalID: -1040098797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_92
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 373
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3910a60e9035a478e6fc79b24a87ea
+      internalID: 1007931635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_93
+      rect:
+        serializedVersion: 2
+        x: 6529
+        y: 375
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d813ced9e73aa83459a615417f5ea707
+      internalID: 430853393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_94
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 366
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708a620cb0917e4ca9ba9372a366850
+      internalID: 1680538541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_95
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 369
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb5e0eb29ba5342bb11b65c7cd05f9
+      internalID: -1043859701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_96
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 369
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f550c79f403f0904fa7b3fdc6e822af6
+      internalID: 1563037586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_97
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 361
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5acd5b91f2ffe44da51f04fbff12e32
+      internalID: 94203600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_98
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 364
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f0ce30707a39d4398bbd1fbc3399b9
+      internalID: 1539049290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_99
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476d0072c7110524b9a636be87bbd5cd
+      internalID: -1119061953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_100
+      rect:
+        serializedVersion: 2
+        x: 6527
+        y: 358
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41904eb0618591343b706857ea4cd682
+      internalID: 2094235307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_101
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f38f764819aa974b9480ba7283f4c2d
+      internalID: -1690809227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_102
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 356
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e615ea4a44be68468254a68a7a2ec9b
+      internalID: -869348391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_103
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 347
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c62c6c0f694be840b828497a23a65e4
+      internalID: 1513105576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_104
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 346
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1fbcd0e6a2fa344b7762a0543501d0
+      internalID: -1910781253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_105
+      rect:
+        serializedVersion: 2
+        x: 6283
+        y: 337
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3d2ee6f0acb34087989990456790d
+      internalID: 2141133841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_106
+      rect:
+        serializedVersion: 2
+        x: 6293
+        y: 337
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a430ec31507764d40821277066adb362
+      internalID: -1137247303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 231
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80ef95702af5141a1df13820cd951f
+      internalID: -1832297434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_108
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 231
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03e4a61c6317f49bc1ba4e83c66e81
+      internalID: 395350855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_109
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 231
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291581029d091e4d88e33cf1a76471c
+      internalID: -1646331936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_110
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 230
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a53fffbd39eb1d428aded76995dea01
+      internalID: -1820312206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_111
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 230
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1296e6a47e1047b3934f03f6b9639
+      internalID: 521213709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_112
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 232
+        width: 153
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc44b8b9409754c92c427f124a01eb
+      internalID: -791232339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_113
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 229
+        width: 152
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b543f96637fb0ac479001c4ca61b1aea
+      internalID: 1318360069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_114
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 246
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918feb154bfc2dd4ba2f58185a2832cc
+      internalID: -1360073669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_115
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 229
+        width: 119
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae334053ed444804cbb01a712c3a4fc2
+      internalID: 326091314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_116
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 122
+        width: 121
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c002b3ca38e26ed44977ab0390b89daa
+      internalID: -648983726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_117
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 121
+        width: 125
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2dbf29a8c3c2b4ab9502660ac4f8fa
+      internalID: -90415072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_118
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 120
+        width: 119
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c777e0c64906b4994677a554a602ca
+      internalID: 1866849768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_119
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 121
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3fd08686f7c714685cd5283cabf17a
+      internalID: 936515155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_120
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 122
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c210bf7071a254fa3f45515bf90c12
+      internalID: -1886274929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_121
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 123
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd0d553679b5d4e97f6b8a408f36d8
+      internalID: 1208388126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_122
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 123
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe681ee2fb4fe94f940161e23bf9bc6
+      internalID: 220518146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_123
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 123
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213cd2a2e52a08248baef21c4e10a2c1
+      internalID: -573494520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_124
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 124
+        width: 148
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895e86132706cb40869a0c34cc425cf
+      internalID: 425964499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_125
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 123
+        width: 136
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726471ba70c5494b8da5d6c6e98c6ee
+      internalID: -851018570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_126
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 120
+        width: 146
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852f289a3c3aad243b4f9a79af896c2a
+      internalID: 1679855398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_127
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 135
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d440523d73271b74fa69cd3366556fc7
+      internalID: -731351117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_128
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 120
+        width: 118
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b6e8c75696d342a855d69131cf05e
+      internalID: 540777775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_129
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 12
+        width: 121
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee72da9e8b13eb45b8dbfc652105d8c
+      internalID: -721304106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_130
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 11
+        width: 125
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de507fa907eb3a0458a0de2d4785a5e7
+      internalID: -447980972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_131
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 10
+        width: 119
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cdf750d42b87a488097b2cf89b9e29
+      internalID: -1792561506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_132
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 10
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17080dc769b6827438802d7e5bc1d92f
+      internalID: -1830525175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_133
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 21
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef16ca527ae7842bd522aca49d64bd
+      internalID: 475226283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_134
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 31
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4166164be9830459d69fef7bb6d96e
+      internalID: 778166514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_135
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 35
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82015ef115230f047a60484cbe1e690e
+      internalID: -1591104815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_136
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 35
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f81b78d02d175744aa54a5a1fbdd07b
+      internalID: 124814612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_137
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d41dc28a5e114d8a167af9aa67442
+      internalID: 838162532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_138
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 27
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88038fdc15acc5a4b8fc57eada5d0881
+      internalID: -528315845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_139
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 30
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f05752be5e4da04a8ccdb648cd712db
+      internalID: 687145084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_140
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 27
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e601cdda7b2f7bf448e52596dfa2b253
+      internalID: 1942236648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_141
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 30
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18017b95a88ccb24b9aae13c6a1c3619
+      internalID: -1456162458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_142
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 6
+        width: 182
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfabd16c5181b414f81ec0dae7d86c9c
+      internalID: 1013530679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_143
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 6
+        width: 181
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ebbbc28ca4d954596fbc8c2084070b
+      internalID: 119803519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_144
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 6
+        width: 175
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cae3cca1b76fd46b36b839d720524e
+      internalID: -1090125494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_145
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 39
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3e5528d5926542adda167038c552e
+      internalID: 1785280423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_146
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 34
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020305b3eaf5adb46878becf13ff6202
+      internalID: -216241855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_147
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a8633a89bdc334a8ad5deac2aa19a5
+      internalID: 1708898957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_148
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 33
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0d08601509d6a418734e5329637a7f
+      internalID: 585772282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_149
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 46
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a5bdd6bfae6e45b3f6ca43c1918e0
+      internalID: -1630468437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_150
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 49
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b75925815f7844997dd62b9fa27b2
+      internalID: -439171527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_151
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 25
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f25652ad253ed40ab091279ffb26ae
+      internalID: -339147098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_152
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 21
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0204abd9dbe5bed48a0302b3274e6099
+      internalID: 350475503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_153
+      rect:
+        serializedVersion: 2
+        x: 4899
+        y: 10
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998376d7861752a4595bd050ece2d680
+      internalID: -48917406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_154
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7486f9e0a00c0ab4fb6109538ea471ae
+      internalID: 1548836498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_155
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 36
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e1637d01d7b0448b685d96974f99c8
+      internalID: 1525491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_156
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15955b4d475d5c441a81813044f99ce6
+      internalID: 2109524256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_157
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 41
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7f0e1b83c113840bb86ad1124b1884
+      internalID: 757217434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_158
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 31
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb3ca1e0a607c749911e37ef51cb730
+      internalID: -176138967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_159
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 38
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b229df30b16178c43b8cf3633626ec3d
+      internalID: -1560160952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_160
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f74019c2550444ea7863ce3309ba52
+      internalID: -1173320884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_161
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 24
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aeae682d73c1148bca8fa11c54254e
+      internalID: 1671001034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_162
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 29
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300f658fdb2d44c4ebedd06d81a4568c
+      internalID: 959815652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_163
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 27
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11890fd02ddc29d4090973f2ce12c9c0
+      internalID: -1167900325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_164
+      rect:
+        serializedVersion: 2
+        x: 4073
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26d2c3e4975d74ca9546d3a2a77cd9
+      internalID: 906698758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_165
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 33
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c7ac7c8774f9488e360ab173b9152
+      internalID: 735595633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_166
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 30
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d76b05eadb81429d1e4e97ffc9cc0
+      internalID: -1103391375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_167
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 33
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8791b51009c64c87364a4f925819f
+      internalID: 205238626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_168
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 35
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb1764d8a82b446ab785159ee74859
+      internalID: -561736217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_169
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 22
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc35ddea06688e45838afb756397c71
+      internalID: -1633513722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_170
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 11
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6ace5bc7b9d24292ce58a25448b79
+      internalID: 302109641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_171
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5700445320f79d74ab42c6b3c38a5072
+      internalID: -329492555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_172
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857a053974aaa542bf70ac85ee3049c
+      internalID: 1101521748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_173
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 22
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dc81f7a0515734180b2ef351b09d1e
+      internalID: 2057420373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_174
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e22d01daa78794f969f36d2a89fffb
+      internalID: 1681783484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_175
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 22
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2f1456d3eddff478ddfb17ba8eac04
+      internalID: 474167007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_176
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586cda306b1be364e85b63429bbc29e1
+      internalID: 1081847032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_177
+      rect:
+        serializedVersion: 2
+        x: 4309
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ea3fd00b9f13148b2ae68ea0c3bc16
+      internalID: -908914409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_178
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 22
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07268976aea3c5141b99c382c3ab92a6
+      internalID: 176559483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_179
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459d8770b9296242b0dedd6d46a6ee6
+      internalID: 1937094662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_180
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 14
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189946c88eec72a42b196a8c5972aa3d
+      internalID: -471456414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_181
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5bea8c94ce6840b4f88205758123d
+      internalID: 1872797845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_182
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 19
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c291fdda70fdc41bc7b8611dc950bb
+      internalID: -635570261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_183
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e965366a4964784ca420cdc45c0585b
+      internalID: -1493158519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_184
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2056f52a3810b49b3594841f191ace
+      internalID: -1737942316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_185
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da17ea0a41b6d4f8680d4c8c4d33c5
+      internalID: -480772792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_186
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc62582f347074a9bef1a76a0aae64
+      internalID: -1985634579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_187
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba00e4dd3e02745950783e0946ff14
+      internalID: 1253455297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_188
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd3dd76887e2d45b7f9b1da23379bb
+      internalID: 1004455162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_189
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 13
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbf8e1ecb643645b0d9164dbb61893
+      internalID: 1322846872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_190
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a2381a8ffd934b90d8d94390de395
+      internalID: 1971431740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_191
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35bcaabf536dec4cb9102b6df7298e0
+      internalID: -1265748680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_192
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5011ed131ad1444eac121ff09a41782
+      internalID: 1471019497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_193
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 20
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e09f76d4972484a9c4a925767e590e
+      internalID: -1103065512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_194
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 12
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b68956ed11ccf044a1971234dbab915
+      internalID: -2129707802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_195
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 14
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd4de16f2d2f4478995865fbfdddf4
+      internalID: -1110731898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_196
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116e5ccdac780cb458111029c7db9225
+      internalID: -1655446358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KEK-SheetUI_197
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 13
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7fbf4ef21d0544979dd2a1c5d139a
+      internalID: -1839786294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KEK-SheetUI_0: 1717562511
+      KEK-SheetUI_1: 982975150
+      KEK-SheetUI_10: 520497930
+      KEK-SheetUI_100: 2094235307
+      KEK-SheetUI_101: -1690809227
+      KEK-SheetUI_102: -869348391
+      KEK-SheetUI_103: 1513105576
+      KEK-SheetUI_104: -1910781253
+      KEK-SheetUI_105: 2141133841
+      KEK-SheetUI_106: -1137247303
+      KEK-SheetUI_107: -1832297434
+      KEK-SheetUI_108: 395350855
+      KEK-SheetUI_109: -1646331936
+      KEK-SheetUI_11: 543359139
+      KEK-SheetUI_110: -1820312206
+      KEK-SheetUI_111: 521213709
+      KEK-SheetUI_112: -791232339
+      KEK-SheetUI_113: 1318360069
+      KEK-SheetUI_114: -1360073669
+      KEK-SheetUI_115: 326091314
+      KEK-SheetUI_116: -648983726
+      KEK-SheetUI_117: -90415072
+      KEK-SheetUI_118: 1866849768
+      KEK-SheetUI_119: 936515155
+      KEK-SheetUI_12: 2126656589
+      KEK-SheetUI_120: -1886274929
+      KEK-SheetUI_121: 1208388126
+      KEK-SheetUI_122: 220518146
+      KEK-SheetUI_123: -573494520
+      KEK-SheetUI_124: 425964499
+      KEK-SheetUI_125: -851018570
+      KEK-SheetUI_126: 1679855398
+      KEK-SheetUI_127: -731351117
+      KEK-SheetUI_128: 540777775
+      KEK-SheetUI_129: -721304106
+      KEK-SheetUI_13: -1919864525
+      KEK-SheetUI_130: -447980972
+      KEK-SheetUI_131: -1792561506
+      KEK-SheetUI_132: -1830525175
+      KEK-SheetUI_133: 475226283
+      KEK-SheetUI_134: 778166514
+      KEK-SheetUI_135: -1591104815
+      KEK-SheetUI_136: 124814612
+      KEK-SheetUI_137: 838162532
+      KEK-SheetUI_138: -528315845
+      KEK-SheetUI_139: 687145084
+      KEK-SheetUI_14: 714356919
+      KEK-SheetUI_140: 1942236648
+      KEK-SheetUI_141: -1456162458
+      KEK-SheetUI_142: 1013530679
+      KEK-SheetUI_143: 119803519
+      KEK-SheetUI_144: -1090125494
+      KEK-SheetUI_145: 1785280423
+      KEK-SheetUI_146: -216241855
+      KEK-SheetUI_147: 1708898957
+      KEK-SheetUI_148: 585772282
+      KEK-SheetUI_149: -1630468437
+      KEK-SheetUI_15: -719386170
+      KEK-SheetUI_150: -439171527
+      KEK-SheetUI_151: -339147098
+      KEK-SheetUI_152: 350475503
+      KEK-SheetUI_153: -48917406
+      KEK-SheetUI_154: 1548836498
+      KEK-SheetUI_155: 1525491
+      KEK-SheetUI_156: 2109524256
+      KEK-SheetUI_157: 757217434
+      KEK-SheetUI_158: -176138967
+      KEK-SheetUI_159: -1560160952
+      KEK-SheetUI_16: -266059017
+      KEK-SheetUI_160: -1173320884
+      KEK-SheetUI_161: 1671001034
+      KEK-SheetUI_162: 959815652
+      KEK-SheetUI_163: -1167900325
+      KEK-SheetUI_164: 906698758
+      KEK-SheetUI_165: 735595633
+      KEK-SheetUI_166: -1103391375
+      KEK-SheetUI_167: 205238626
+      KEK-SheetUI_168: -561736217
+      KEK-SheetUI_169: -1633513722
+      KEK-SheetUI_17: -1500341486
+      KEK-SheetUI_170: 302109641
+      KEK-SheetUI_171: -329492555
+      KEK-SheetUI_172: 1101521748
+      KEK-SheetUI_173: 2057420373
+      KEK-SheetUI_174: 1681783484
+      KEK-SheetUI_175: 474167007
+      KEK-SheetUI_176: 1081847032
+      KEK-SheetUI_177: -908914409
+      KEK-SheetUI_178: 176559483
+      KEK-SheetUI_179: 1937094662
+      KEK-SheetUI_18: -1186062374
+      KEK-SheetUI_180: -471456414
+      KEK-SheetUI_181: 1872797845
+      KEK-SheetUI_182: -635570261
+      KEK-SheetUI_183: -1493158519
+      KEK-SheetUI_184: -1737942316
+      KEK-SheetUI_185: -480772792
+      KEK-SheetUI_186: -1985634579
+      KEK-SheetUI_187: 1253455297
+      KEK-SheetUI_188: 1004455162
+      KEK-SheetUI_189: 1322846872
+      KEK-SheetUI_19: 1995960428
+      KEK-SheetUI_190: 1971431740
+      KEK-SheetUI_191: -1265748680
+      KEK-SheetUI_192: 1471019497
+      KEK-SheetUI_193: -1103065512
+      KEK-SheetUI_194: -2129707802
+      KEK-SheetUI_195: -1110731898
+      KEK-SheetUI_196: -1655446358
+      KEK-SheetUI_197: -1839786294
+      KEK-SheetUI_2: -1096007716
+      KEK-SheetUI_20: -1995713631
+      KEK-SheetUI_21: -1624308509
+      KEK-SheetUI_22: -1630500631
+      KEK-SheetUI_23: -1279618556
+      KEK-SheetUI_24: -13831352
+      KEK-SheetUI_25: 348034460
+      KEK-SheetUI_26: 133873481
+      KEK-SheetUI_27: -66239700
+      KEK-SheetUI_28: -294959263
+      KEK-SheetUI_29: 1681748866
+      KEK-SheetUI_3: -1656858856
+      KEK-SheetUI_30: 1346899831
+      KEK-SheetUI_31: 772015710
+      KEK-SheetUI_32: 1657792474
+      KEK-SheetUI_33: -333198070
+      KEK-SheetUI_34: 1311890002
+      KEK-SheetUI_35: -1666182008
+      KEK-SheetUI_36: 1936410829
+      KEK-SheetUI_37: 2061836812
+      KEK-SheetUI_38: -1207379086
+      KEK-SheetUI_39: 2033281150
+      KEK-SheetUI_4: 1120411047
+      KEK-SheetUI_40: 1914366308
+      KEK-SheetUI_41: -627949820
+      KEK-SheetUI_42: 2146137029
+      KEK-SheetUI_43: 299506976
+      KEK-SheetUI_44: 1173881439
+      KEK-SheetUI_45: 828398797
+      KEK-SheetUI_46: -37474914
+      KEK-SheetUI_47: 235615462
+      KEK-SheetUI_48: -846920343
+      KEK-SheetUI_49: 289341651
+      KEK-SheetUI_5: 853566391
+      KEK-SheetUI_50: -1459791777
+      KEK-SheetUI_51: 566067177
+      KEK-SheetUI_52: -1519598852
+      KEK-SheetUI_53: -207196160
+      KEK-SheetUI_54: 1761794870
+      KEK-SheetUI_55: -1140696600
+      KEK-SheetUI_56: -401044784
+      KEK-SheetUI_57: 1704076601
+      KEK-SheetUI_58: -530175814
+      KEK-SheetUI_59: 367739055
+      KEK-SheetUI_6: -12577096
+      KEK-SheetUI_60: 465413148
+      KEK-SheetUI_61: 1788949283
+      KEK-SheetUI_62: -312942892
+      KEK-SheetUI_63: -1756166433
+      KEK-SheetUI_64: 1898653205
+      KEK-SheetUI_65: 177028475
+      KEK-SheetUI_66: -68359076
+      KEK-SheetUI_67: -154136114
+      KEK-SheetUI_68: 1207005828
+      KEK-SheetUI_69: -146870215
+      KEK-SheetUI_7: -961265283
+      KEK-SheetUI_70: -1957940480
+      KEK-SheetUI_71: 468452194
+      KEK-SheetUI_72: -1086561604
+      KEK-SheetUI_73: -549511637
+      KEK-SheetUI_74: 1968373185
+      KEK-SheetUI_75: -312852085
+      KEK-SheetUI_76: -1153689547
+      KEK-SheetUI_77: 1599273468
+      KEK-SheetUI_78: -1942890090
+      KEK-SheetUI_79: 1598607750
+      KEK-SheetUI_8: -1448818559
+      KEK-SheetUI_80: -1783234529
+      KEK-SheetUI_81: 505855030
+      KEK-SheetUI_82: -281362318
+      KEK-SheetUI_83: -822618309
+      KEK-SheetUI_84: -225169438
+      KEK-SheetUI_85: 974899794
+      KEK-SheetUI_86: 838266947
+      KEK-SheetUI_87: 65798525
+      KEK-SheetUI_88: -715649940
+      KEK-SheetUI_89: 406287468
+      KEK-SheetUI_9: -806322569
+      KEK-SheetUI_90: 749367111
+      KEK-SheetUI_91: -1040098797
+      KEK-SheetUI_92: 1007931635
+      KEK-SheetUI_93: 430853393
+      KEK-SheetUI_94: 1680538541
+      KEK-SheetUI_95: -1043859701
+      KEK-SheetUI_96: 1563037586
+      KEK-SheetUI_97: 94203600
+      KEK-SheetUI_98: 1539049290
+      KEK-SheetUI_99: -1119061953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

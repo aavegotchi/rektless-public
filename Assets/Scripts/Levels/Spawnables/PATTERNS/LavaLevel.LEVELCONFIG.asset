@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dcce88d49cae9c458f046bc7a81547f, type: 3}
+  m_Name: LavaLevel.LEVELCONFIG
+  m_EditorClassIdentifier: 
+  LeaderboardKey: Lava
+  PrefabFolderPath: Prefabs/LavaLevel
+  ExclusivePatternPath: PatternPrefabs/LavaLevel
+  BackgroundPrefab: {fileID: 6531771423570033222, guid: 190a2bb58a9719b43bc9934c5286e76f, type: 3}
+  StarterPrefab: {fileID: 7196387924982369365, guid: c6d6b2f2b9254f54c8f2e9688689af5f, type: 3}
+  ExclusivePatternPrefabs:
+  - {fileID: 7196387924982369365, guid: 1a6b512bac4d6c14bb8d6b49c08a7d1e, type: 3}
+  - {fileID: 7196387924982369365, guid: 0cbc5940a7a0e9a45943b2691bd0de99, type: 3}
+  - {fileID: 7196387924982369365, guid: a735d837b55ef3f44a174c120ceb7baa, type: 3}
+  - {fileID: 7196387924982369365, guid: 88e23aff42e54584e821283c493bb841, type: 3}
+  - {fileID: 7196387924982369365, guid: bc029156342bb5348a3eae0d4190f7a7, type: 3}
+  - {fileID: 7196387924982369365, guid: 4d60c0dc4b540e641a5e46b4dc5e34ea, type: 3}
+  - {fileID: 7196387924982369365, guid: fce01053f8104d247a7edfcf585a6d31, type: 3}
+  MeteorPattern: {fileID: 7196387924982369365, guid: 6f75f7f138113b546a9d86aedc986b82, type: 3}
+  BossPrefab: {fileID: 7196387924982369365, guid: 54720e32f548f0a42ab938e860f63f22, type: 3}
+  GemAnimator: {fileID: 9100000, guid: e572b9511c92f154c96265e4fd7caaf7, type: 2}
+  PortalTexture: {fileID: 2800000, guid: 1b1fe6eb9a1dacc4e827ed9692548e33, type: 3}
+  IncludeMeteors: 1
+  MeteorPrefab: {fileID: 543150485820228633, guid: b1b3b1aac6af29f4c8f41b695ec3f416, type: 3}
+  UIColor: {r: 0.9764706, g: 0.6392157, b: 0.105882354, a: 1}
+  DistanceFlagUISprite: {fileID: 21300000, guid: 4dc9f343cecc2cd4dac91abb8658cda7, type: 3}
+  GemUISprite: {fileID: 21300000, guid: b889fb7ea6d49414ba29180be12e55f5, type: 3}
+  BossHealthBarPrefab: {fileID: 5494474713951227833, guid: 360a868deec34bd4c9788c812f725891, type: 3}

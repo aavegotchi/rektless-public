@@ -1,0 +1,6137 @@
+fileFormatVersion: 2
+guid: 3f3de43f355aaa04a9a66c76c3b26458
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greengiantboss 1_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 943
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa8360272e66d4ebc75a3a2a3e97bb
+      internalID: 194400600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 943
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28d842620fe4f544a8a6243df1d0f7d
+      internalID: -1098048355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 943
+        width: 79
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69a71c53fa24304583b3071de830be5
+      internalID: -176799322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_3
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 943
+        width: 79
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f1a65377bf895489f0521eea04c985
+      internalID: -1926215803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 943
+        width: 77
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867b7a55d8a55f241a8cea962be54111
+      internalID: -469175790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_5
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 943
+        width: 77
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069865da3552ae9419dadf32bd76d752
+      internalID: -894651755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_6
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 943
+        width: 79
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b272cd2bb3af49b35d66bc131e904
+      internalID: -1882268378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_7
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 943
+        width: 79
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffea7dd90cad94b4aae1df1c69ddfd21
+      internalID: 1869954319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 839
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f3de04db13f874cb966f097423360d
+      internalID: 1782680513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 839
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd158251462aa4ab9c322735f2dfad
+      internalID: -509790844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 839
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c7a062d7224c84a8e1ec27e35deabd
+      internalID: 1983734231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 839
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb479a5f4bc60c49a96e1d5890db715
+      internalID: 126861130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_12
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 839
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ef056977e63b84fb774be58ed75e55
+      internalID: 1831469038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_13
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 839
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08fae332b35f954492e6f369e2ca3c3
+      internalID: -1265449860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 839
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56542a898d43644bea4a18d9fc8fd7
+      internalID: 1088260557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_15
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 839
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509d09163790b9b4982d48ca9cc9589b
+      internalID: 831634158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 735
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2d0efe63798c43a5da225fa15ba62
+      internalID: -1238668023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 735
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82018f7f8848a4f41b8fd15260ec8040
+      internalID: 1538946555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 735
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8c2bf0a8ca6944b660af297bef392
+      internalID: 1362408742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_19
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 735
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca513e5f32cd7e4f8afec1a17f6cc33
+      internalID: 1147919596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_20
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 735
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9289dedb966f44088ee00307932429
+      internalID: 292392606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_21
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 735
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf81d39aea58d849873182085a91e3c
+      internalID: 1166660223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_22
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 735
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e0699b30abf84ebda20ffac6d51a0
+      internalID: -489713230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_23
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 735
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49a802a99bf474592af9e6c0b437ff
+      internalID: -991785910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_24
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 682
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07fc46cdf8736f468ce54665f900bb7
+      internalID: -585139115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_25
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 693
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1647adc5c28f054a9a58f7ffedb134e
+      internalID: -2138608750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_26
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 711
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad1456821be7a748835d65857dc6f25
+      internalID: 601723503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_27
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 712
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39382526924df9144933af78ca66722f
+      internalID: 2063001606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_28
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 706
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9981aad711a1bc4cba72508564acb52
+      internalID: -720682911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_29
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 679
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d49efa2cf93c448d11858dd9e69a2
+      internalID: 1734853291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_30
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 680
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b334832887829f149a00fe0373e2ae95
+      internalID: 138150653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_31
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 702
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5fc0529223ac4cb1d839e86fb3eec
+      internalID: -174692950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_32
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 700
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c3c3a0400308449a51d4c7a4e556d8
+      internalID: 460510362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 631
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc5f142863b70a4daa58fd1fe1f0769
+      internalID: 1732976667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_34
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 694
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa312d472b9318408bb371b5abbcb45
+      internalID: 277928255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 631
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5098d36b9c79d4cbbad2b3e237203c
+      internalID: 793684043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 631
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990877a1941bdf744af1095e6302b3f0
+      internalID: 1006674926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_37
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 631
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9033632941a08ee4b8867a1f656c0a0d
+      internalID: -362252680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_38
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 631
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46986c5997afb424983c1216ee79cdcc
+      internalID: 482802030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_39
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 631
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0497b51ea222f474f9fdbcf78eb4aad3
+      internalID: -1619786063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_40
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 631
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c090e84e163dee4591f8a42bc649443
+      internalID: -1107873796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_41
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 690
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f399bf78803b1748aac12a3bc5ec9c8
+      internalID: 907810811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_42
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 683
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fa3f4dbf273ab40818762f307eeccb
+      internalID: -1843305606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_43
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 631
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda25cb1c63a8f48a8cf0045df3a389
+      internalID: -2040876178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_44
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 631
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c385e01b6bb96754f844d8279f18a235
+      internalID: 1221145504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_45
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 631
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdccdfc9b78f074fae6e27c118f411c
+      internalID: -403261109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_46
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 631
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9d721eb0a22547a8e256f8ed3453f
+      internalID: 1760367357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_47
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 631
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe62a10a03baf8747afe8d7238992012
+      internalID: 845294739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_48
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 631
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237c19d476341584e904ae9e7b8c99b7
+      internalID: 149004572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_49
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 684
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d209d92fd2f2a43bbebb0bc8155745
+      internalID: -494948746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 599
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cc0f3bade1ab74bbd7f496188e9bb2
+      internalID: 1028106474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 591
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c452fb6a5da3ba44ac2471a53c1abe1
+      internalID: -622113876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_52
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 577
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aee7edcd7d8cd4f8e397430648b978
+      internalID: -908184636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_53
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 578
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5c73d3a864d7945bcfc9fba9a6b3c6
+      internalID: -592071709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_54
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 580
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e12cece59efdcd4ba83c674ecbe8ddb
+      internalID: 350663516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_55
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 591
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9e48d40b9016d4ca370c951311f28d
+      internalID: 1546093702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_56
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 598
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcff19cec551cf5439339df43e07a156
+      internalID: -884477917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_57
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 604
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324dd7f33c9f77a4fbaf0f1a5996e21d
+      internalID: -2048528486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_58
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 610
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e5a93236530d44b66d5e2a58f16e0
+      internalID: -1752905158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_59
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 609
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894dc8321fcc7d49a935714ca46584f
+      internalID: -975699180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_60
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 600
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9304f4ca5e14a2b4d8ecb6c7bf4f137c
+      internalID: 1391305170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_61
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 593
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789114046ac6e4448c8a85dcc4c5757
+      internalID: -938039377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_62
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 601
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d94cd6e1b6fc49a9e57b9aa3b9662
+      internalID: 1604512292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_63
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 527
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a460439a4d704e859dc74caf8a595
+      internalID: 120091299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_64
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 527
+        width: 122
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8775621907d202741b360f2948d8c5e4
+      internalID: -890443359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_65
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 596
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60eac4c13f16624eb8db93f6967a2ea
+      internalID: 1634614286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_66
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 560
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3029c0d237ae2b3449ad676426cd4131
+      internalID: 580564594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_67
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 571
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2f04d17bbcf04ea63f463200c315c
+      internalID: -795180199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_68
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 589
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da73892a24fc91c4e8dc79d908500e0b
+      internalID: 1349777805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_69
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 590
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3239f95e4ede85749b4f73f209448e09
+      internalID: -192270346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_70
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 584
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df7928cbca192a44971023784979c3b
+      internalID: -1345520592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_71
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 527
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395a06a413a80846bddb6d7eba2788f
+      internalID: -1658090053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_72
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 585
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a07105c17ac9746b0a3505b32f9b67
+      internalID: 779712285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_73
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 592
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4218650905290c4facda8895fc9a4fe
+      internalID: -599647271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_74
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 527
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4388d28f875f063488196853d65fe71a
+      internalID: -557345735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_75
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 581
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a153e2b1eab63ac45b1baedad3c0ea68
+      internalID: -659528552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 587
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102cc731f9545241a5416976de3f81e
+      internalID: -467220794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_77
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 586
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eddc6ca87b3b842b5fff0ddf49f333
+      internalID: -538651904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_78
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 558
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca865fab4089bd439111e5eff3fae98
+      internalID: -1595251503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_79
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 582
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bcd471ce508a94ebef848e74af26dd
+      internalID: -515582613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_80
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 527
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf181a264581b0847805c65f5b5b8975
+      internalID: 39990790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_81
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 586
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864e32deba6f9b4392b165a5693a356
+      internalID: 484910710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_82
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 581
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f0ff8be391bfb42947ef328b3e1667
+      internalID: 1445870321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_83
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 588
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c0d7d2ec6922b4fb5ed7efa83a4b9d
+      internalID: -288656792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_84
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 527
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd8d44e1dd33744ade58cf535c070b
+      internalID: 1407792023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_85
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 527
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9ff5c40ecc65a43a2d4be78d592f94
+      internalID: -1288823924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 527
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6101d01be878fc4290bd407ffcff4d8
+      internalID: -1084955247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_87
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 583
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a37e6ae37bae924d928d68c52b4151d
+      internalID: -603804480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_88
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 498
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f12b0be4a1fa94ca42521b14261155
+      internalID: 1859494437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_89
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 500
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52cae8fa061e24290187fc6d222a27
+      internalID: 1988319429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_90
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 578
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa3445dc13c254eb580d6b92d4cb79
+      internalID: -726976633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_91
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 573
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b94dbf78ad0f54294a8155e2cc8ee0
+      internalID: 1370088883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_92
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 527
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8abc5d50b21146a7a2dab9720035c
+      internalID: 496684767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_93
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 582
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427f5c947e62f58498825c021752059f
+      internalID: 1131700599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_94
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 492
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce143e505e922564d88fbbe38268ab6d
+      internalID: -1237936512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_95
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 527
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7581835f384225d4a893c0d1f3f633b9
+      internalID: -838172187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_96
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 557
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454053c402d3253438f7493f34a00734
+      internalID: 41791848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_97
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 569
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd3371be31975d4f8e09ab8fbe3c108
+      internalID: -23869146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_98
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b87be951e7e8d4185f0fe67af16506
+      internalID: -551177037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_99
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 570
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31192aa37ab983b4f8605e903a3f97d9
+      internalID: -1236027728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_100
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 568
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11ca33e88dea32438aa595a41494842
+      internalID: -1210646606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_101
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 572
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f78a3870ac930d4ea9ec4869a42980c
+      internalID: 716245668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_102
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 559
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558917d687cda2c43b055e462d0de69e
+      internalID: -1964732740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_103
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 561
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f527921e1b8d445bc5f7cae8a0de49
+      internalID: 405480859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_104
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 562
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaade9b8c384206408ab9fc3c04b65d4
+      internalID: -1912314942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_105
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 423
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c1b0ba279f554595221cb37b6377f
+      internalID: -295780606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_106
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 492
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7686623ad8a63541a16ef0646b7b776
+      internalID: 2116542893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 493
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c252c9e261854eb8e5d7ffb9c2e4f
+      internalID: -922871765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_108
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 504
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8779925bd45382d49850845d88f12aba
+      internalID: 1089649136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_109
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 423
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffbc300921ad72449f935f19b90ce51
+      internalID: 1243889011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_110
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 496
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89a870ab048d844984c724f1ff38fbf
+      internalID: -1136503706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_111
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6896b32670c494e42a1d5eb2cc1cd9bf
+      internalID: -2083735449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_112
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 502
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fa2ee21327e8045b9881c065cdb017
+      internalID: 1826368140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_113
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 500
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f30f3d9531f34a87217ff60f047c4
+      internalID: -1453603212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_114
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 494
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894a6be453e0cd041b05a0414aa8244f
+      internalID: -1851127140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_115
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 501
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d869c9d6d503e479f26c32291bda71
+      internalID: -611584879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_116
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 423
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39932071d463544a9fcf74f7fec6fe7
+      internalID: -1666911209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_117
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 505
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de3676f93e23e8419f053aaf4a05591
+      internalID: -1981555865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_118
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098391faf6de16e4891be0dadc521120
+      internalID: -2116437662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_119
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 510
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfad9a0e4ff3a9142a500e115966be76
+      internalID: -265853017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_120
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 505
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a3e412ed858a44cb8f4fb5a008b921
+      internalID: -1118517862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_121
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 511
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e682eb9300b356419b322086006a86b
+      internalID: -302181207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_122
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 495
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b9b865d6cab8459711381a2dc3c1d
+      internalID: -161916205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_123
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 512
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184e5b69178189d4badd251aba855711
+      internalID: -823336048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_124
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 508
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f2065513c807248b508754c98c1a04
+      internalID: -1533523933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_125
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 495
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d0a2ffd58433c4dbd2e6e9127d355b
+      internalID: -676785550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_126
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 490
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97535b6a08b43a544b34a96d41bf0f95
+      internalID: -1183961531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_127
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 500
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6137838fe7224584778d90f0f7d15
+      internalID: 2002576262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_128
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 493
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7246443ee7a7084a8feb0efdc47d316
+      internalID: 393755453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_129
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 510
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9031ff1ba0924f41b485f5753f68939
+      internalID: -631175785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_130
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 495
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda5f4334fdc3b4da2af358a4464072
+      internalID: 1871131048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_131
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 423
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef594f7b46af55840818c34ee67e0acc
+      internalID: -808659140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_132
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 498
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffd4556ec7391e4b96f4ce02201a6e9
+      internalID: 402685482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_133
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 503
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002519c939ab1974594f730ada8de6a2
+      internalID: -1049236905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_134
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 499
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5215553221cb03b46be7cbc9f76551d2
+      internalID: 962979986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_135
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 500
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe3a8c72d3d1647bf9c7a23d0cba9f
+      internalID: 893607177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_136
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 489
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3b36346b69d641986e6459b9845d4
+      internalID: -1914025630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_137
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 498
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ddb5bc4f9ed44ba1d706c9d1e6051
+      internalID: -1577721532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_138
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 507
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437ea2d27f0e2547a26ec85b8b5650d
+      internalID: -296835874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_139
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 488
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9d515672349194e92268f8c4c88739
+      internalID: -1662664865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_140
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 503
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ff9703906c4c49824dcaff2b8a361
+      internalID: -394302417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_141
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 423
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75434a6c02153f349ad4730c6f0d926f
+      internalID: 17830616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_142
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 488
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca5ffcd0144d94b9172ac3aef45e72
+      internalID: -2041031911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_143
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 423
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff0250c4769ae419b4f015349cdf8b
+      internalID: 377699210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_144
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 480
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd96e0d5853da7043be5ad6f15e4e972
+      internalID: 653662906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_145
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 482
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2635b712b97645b4f8e726f11ce53086
+      internalID: -1804570181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_146
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 480
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee74f0f9db829e40974c799062a8cca
+      internalID: -169335328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_147
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 486
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809b6825da63a94983d469e0671e43f
+      internalID: 167642906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_148
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 423
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ffcae250335a64ea93d24e66b0371e
+      internalID: 835051342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 476
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace2884e2065d742b2c37e259667965
+      internalID: -823063676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_150
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 474
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291dd8732675514a83016ca71e7a752
+      internalID: 2136581652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_151
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 473
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126c1756773dc8642b34f82cc8755386
+      internalID: 208812076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_152
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 466
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9e299adcd97fd439a5630f4cec4bcc
+      internalID: 2030883490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_153
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 477
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783f50adb0ccd864ab711053182268c0
+      internalID: -1945419741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_154
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 475
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1540753532131cb4cbcb7894d9ec5598
+      internalID: -1739737905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_155
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 474
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b886c46bd619ab84ea4c88a079936b47
+      internalID: 2083807571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_156
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 475
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85c5cf6f8a0b646959e6feeb9dd9f3
+      internalID: 162228539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_157
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 423
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200fc3fe4c65a34aaedc86b67bf0bf1
+      internalID: 2100033347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_158
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 423
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243e090abe58d048b6f7c983ece23e2
+      internalID: 1563630011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_159
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 423
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7b5a3bbc6bb94fa8a6470d1609a70
+      internalID: 326998603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_160
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 423
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b554f71f9ca1ed44976bc2914b98770
+      internalID: -134015488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_161
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 423
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42052e4e519b76f4a848db283ba3a1a9
+      internalID: 1780711208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_162
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 423
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505edac477f0e5b47afe10b4f21ff35b
+      internalID: 934538858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_163
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 473
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbcdfdd5ffb2144b8c002bcce6aa649
+      internalID: -1890295623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_164
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 465
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47144e2a4b1c8a140a7a1dd6c3d74230
+      internalID: -1567794228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_165
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 468
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c77dae7016df3428e42bef091e21b8
+      internalID: 141865164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_166
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 466
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a025604bd686724c88a8b39602f77d4
+      internalID: 1470037172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_167
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 450
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b40cff5aa558b45b17bfc6f25f416b
+      internalID: 1086075740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_168
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 452
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2333c3a46f34d0f4794987f4540585fa
+      internalID: -598743334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_169
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 457
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d73472fc88bb3e4bb15a859289eb7e0
+      internalID: -1471868776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_170
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 460
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991d4f4f55ea7d40a322165c4da922f
+      internalID: -1867721026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_171
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 457
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdec75562c68b8489c7c8ade01c3d49
+      internalID: -49614672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_172
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 460
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee5e0cc2cb82447adf82d69d8007ed
+      internalID: -1605400760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 436
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192753761e3868c4ca81c723de547742
+      internalID: -130441267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_174
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 431
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e0b86e309f66e44ba67c8b250cd344
+      internalID: -572867263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_175
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 423
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa347d7206e111448264b17e9b24b1f
+      internalID: 617167110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_176
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 433
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2835b851a65f2741960cc613e54346b
+      internalID: 1711455537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_177
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 423
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e62be3c88d354489a0253740ba715
+      internalID: 1319640749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_178
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 446
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03018fc7f1032c46bcc0079167c7349
+      internalID: -1156709039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_179
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 428
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4892c60f65382e44baa09ff0c90b2f11
+      internalID: -2038407551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_180
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 428
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c31bdec08b7764aa8487fb9d2a5032
+      internalID: -369222809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_181
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 440
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9933c64d4f0a04e8fee663e14e6861
+      internalID: 1887031795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_182
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 428
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9387ec4f5eaf9c5428ba54e9c2a6739f
+      internalID: 487120950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_183
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 423
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a73ba731b4cd04781be24eb0a2efc5
+      internalID: -1500816628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_184
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 440
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c75dbb31c8f2746be6fe927e9357cf
+      internalID: -324001757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_185
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 424
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b1c95c0d8d0940a5314e428254ebd
+      internalID: 636426644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_186
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 431
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c6f6eb5d75e2e4cb0fa33a8b352dee
+      internalID: 135975400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_187
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb8dd6cf5b0e544a58809e8b4e50e7
+      internalID: 144483598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_188
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 427
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bb174c59734ef4fb2e79be28092e35
+      internalID: 271142826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_189
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 449
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ff110d1a4d8004cb7869cf1e6d7bb2
+      internalID: -200398213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_190
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 448
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec622ef0cc4ba6542aad11351d05acda
+      internalID: 1525818689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_191
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 427
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857a2673cd401a94d85349bd0dcd0037
+      internalID: 1049235541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_192
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 423
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ab304300de59438a70e65e139f628
+      internalID: 921941881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_193
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 423
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341bc4d691abe7d4a82bb478d3ff4366
+      internalID: 2049310529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_194
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 433
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94adec7157c8c0244874d30d9b8ce3dc
+      internalID: -1423780787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_195
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 426
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2e7b6338756094988d996e3e3015f3
+      internalID: -1818484557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_196
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 430
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab86576010f234b428765410f292325c
+      internalID: -2019244674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_197
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 448
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418aa9d20757c8c489eea1ce1be3a2e4
+      internalID: -673551875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_198
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 427
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccca431bd9346947acfa9524a28a437
+      internalID: -1787668090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_199
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 446
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd4399cc1ecb8c4aafea7212e6e34b9
+      internalID: -1737131199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_200
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 449
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c8b616d53be1459a7ee7e8996c52e
+      internalID: 958497749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_201
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 423
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80248f846f128564498f5a097539b622
+      internalID: -1259652803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_202
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 319
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b81a122edc9d047ac75a649ab4f24e
+      internalID: -73743704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_203
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 319
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ac7efd6b7c9934fb534cddcd5b7b49
+      internalID: -801999821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_204
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 319
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5af4be760a34634687ec3b403510a5a
+      internalID: 283535588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_205
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 319
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d40bc3b12c2b3c47bf499a98a84281e
+      internalID: -804527894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_206
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 319
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdf8eeb49214e4f886ef7ce019e9b6
+      internalID: -15295998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_207
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 319
+        width: 126
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13609084635a5984d941c10c85e35972
+      internalID: 378115954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_208
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 319
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96abf641e303e3a46b14023599224eae
+      internalID: 1035337500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_209
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 335
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31b66aa153118f4aad96ad558474436
+      internalID: 372318229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_210
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 319
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17211f3c4a3ceb4a8b13259c0590bbb
+      internalID: -1219188087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_211
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 325
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06728aacb5252944bf908ed88ad84b8
+      internalID: 2067239529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_212
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 215
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e368780b9a1bb4ba4e4ff88706b1bc
+      internalID: 1295889602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_213
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 215
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ae1211ff1832a4588dffdd3cdc1c43
+      internalID: 1779843693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_214
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 215
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9180e3160d4701042a5f243e19cbc006
+      internalID: -1323075962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_215
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 215
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef008384c514a1146b9232030e0f53c4
+      internalID: 59075604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_216
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 215
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33237cc4683641e4fac642cb7f8c7737
+      internalID: -2040390083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_217
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 215
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb1434a42ca6f4fb1f554b597edc22
+      internalID: 629552378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_218
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 215
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aabe4ce6b797845ae4b2edbdacde9a
+      internalID: 429466456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_219
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 215
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4589f412860bed428ddfcc9cf3c3b6c
+      internalID: 1537759507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_220
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 215
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee246438444284ba46572ec109c5b2
+      internalID: -1682443082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_221
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 215
+        width: 138
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b036879acee4bf429afa0ac1c07d4c3
+      internalID: 621946997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_222
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 215
+        width: 143
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e28ccc8113e64fa177c4aaaf1b65d
+      internalID: 286996534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_223
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 222
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7546b9774982d841a60df9bf700efa4
+      internalID: -1000685762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_224
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 247
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b633726492d1e4c81f15dae975044a
+      internalID: 1643554904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_225
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 242
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca680ed83a37f444885e6ada26fe6f2
+      internalID: 276788039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_226
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 215
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3692e6a5e1e21342a23b0a76bd8635a
+      internalID: 724264570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_227
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 243
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58bb409111dd3f4aaa3858f4b55cdbb
+      internalID: -895506403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_228
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81111fa3549f8ad459f5a5edd61baad7
+      internalID: -1282868815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_229
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 242
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b8acbbefc84814fb45203a9deda9ef
+      internalID: -1480494368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_230
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 215
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95253bb0c2e27c84085a88208bb711c4
+      internalID: -438681815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_231
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 231
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1168aa78622dad4ca39a4b85ec74ffc
+      internalID: 800716760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_232
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 223
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0299334776a96bf4fbde817d47e58708
+      internalID: -1094996320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_233
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 231
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a870be5e3de4a3a41969ff3b76a152d9
+      internalID: -1234297733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_234
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c49be16e38e08d43b7e2ab45c147842
+      internalID: -1365781179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_235
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 111
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c4d763666dbc4b9ac3483130a6621
+      internalID: -1819057907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_236
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 197
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f48e532fc13e4099c188212ba4eed
+      internalID: -289369335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_237
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 111
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b9a2ee326fa44cae4aebe6ab6024e
+      internalID: -95779514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_238
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 111
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f02cbc1dc4de40a60250e639120b0
+      internalID: 260958482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_239
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 197
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb6a76727ff0f4f83843a79d185527
+      internalID: 1817526124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_240
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 111
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bbe181b4f9e54982e27378d159d8a
+      internalID: 33790544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_241
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 111
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39f818efbe32a44c9d291f936227829
+      internalID: -963330074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_242
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 111
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b9c97e62aa5a94494a43750e2ab513
+      internalID: -1546624460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_243
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 111
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e95281e7ec0143aa773af928bf7f9
+      internalID: -358847423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_244
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 111
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fd72af8156c94299998e5bd9480d1
+      internalID: -757336020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_245
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 111
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e46ea63946ec94980a4bd2907d5587
+      internalID: -1481757768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_246
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 111
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f235d611e0ff2498ce9244c9fec232
+      internalID: 536876323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_247
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 111
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc2d7d6584c28e4da89f076af7cb625
+      internalID: -1031429228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_248
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 111
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa564c0b0a89f543be23fd29f8bceac
+      internalID: 1930778639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_249
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 111
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22047d6d3a59f9e47ab78149cd87889b
+      internalID: 1469294374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_250
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 7
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a1a8cf15c2e7498331d9f69d378ac
+      internalID: -999287647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_251
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 7
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750f1a9007239a3499104e9574e3e42f
+      internalID: 1741695561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_252
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 6
+        width: 150
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c059f8aedb194280312005e9a3e8f
+      internalID: -82863922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_253
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 6
+        width: 154
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a33217ff6c93f34d833d93ccd0a20ed
+      internalID: 1030217366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_254
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 6
+        width: 156
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b8d52c474fa474c8f468537c422f1c
+      internalID: -1867600822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_255
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 7
+        width: 154
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b8fb414b04d034db844129bd4ae34d
+      internalID: 559623827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_256
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 7
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12f042b707b96048aeadf5ed50c9d88
+      internalID: 681857195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_257
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 46
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f61a5197369443aa66399c845a429
+      internalID: 1050864650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_258
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 7
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bdf1418a7387141bebbcb19a8ffbdd
+      internalID: 981145311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_259
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 33
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ab7d284fbf164cb6aa87746157d88
+      internalID: 1248664530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_260
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 35
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02a7300e86aab46812d6905273c265
+      internalID: 1940625240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_261
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 33
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4563de5cca2aaa47a9ebb1197bf8bec
+      internalID: -731858953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_262
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2cffd3d9233a14cae7abd4ca3253e0
+      internalID: -935102797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_263
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6cc6d485078b449bf1de1219d45935
+      internalID: 455976446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_264
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 29
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb8269f498c3249b71ca139e361cc4
+      internalID: -1550062824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_265
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992da122abfedc942897bb59918dba9c
+      internalID: 607477668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_266
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 20
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e474fc9e4efe49a8e6a309405d24f
+      internalID: -1653565243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_267
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 7
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0266adfc04261f4eb02afbaf3936221
+      internalID: -1612065626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_268
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 22
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96ca9ee2790f4b42b97b4c7367ae397
+      internalID: -49101251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_269
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 14
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340feb3e5e3aec4b824ee09dcab5f72
+      internalID: -1512640093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_270
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c9dd2c9918c3841b57536c311279ed
+      internalID: -1120198171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greengiantboss 1_271
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 7
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b3763d079e554299cc2a26d45bdac
+      internalID: 1977381194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      greengiantboss 1_0: 194400600
+      greengiantboss 1_1: -1098048355
+      greengiantboss 1_10: 1983734231
+      greengiantboss 1_100: -1210646606
+      greengiantboss 1_101: 716245668
+      greengiantboss 1_102: -1964732740
+      greengiantboss 1_103: 405480859
+      greengiantboss 1_104: -1912314942
+      greengiantboss 1_105: -295780606
+      greengiantboss 1_106: 2116542893
+      greengiantboss 1_107: -922871765
+      greengiantboss 1_108: 1089649136
+      greengiantboss 1_109: 1243889011
+      greengiantboss 1_11: 126861130
+      greengiantboss 1_110: -1136503706
+      greengiantboss 1_111: -2083735449
+      greengiantboss 1_112: 1826368140
+      greengiantboss 1_113: -1453603212
+      greengiantboss 1_114: -1851127140
+      greengiantboss 1_115: -611584879
+      greengiantboss 1_116: -1666911209
+      greengiantboss 1_117: -1981555865
+      greengiantboss 1_118: -2116437662
+      greengiantboss 1_119: -265853017
+      greengiantboss 1_12: 1831469038
+      greengiantboss 1_120: -1118517862
+      greengiantboss 1_121: -302181207
+      greengiantboss 1_122: -161916205
+      greengiantboss 1_123: -823336048
+      greengiantboss 1_124: -1533523933
+      greengiantboss 1_125: -676785550
+      greengiantboss 1_126: -1183961531
+      greengiantboss 1_127: 2002576262
+      greengiantboss 1_128: 393755453
+      greengiantboss 1_129: -631175785
+      greengiantboss 1_13: -1265449860
+      greengiantboss 1_130: 1871131048
+      greengiantboss 1_131: -808659140
+      greengiantboss 1_132: 402685482
+      greengiantboss 1_133: -1049236905
+      greengiantboss 1_134: 962979986
+      greengiantboss 1_135: 893607177
+      greengiantboss 1_136: -1914025630
+      greengiantboss 1_137: -1577721532
+      greengiantboss 1_138: -296835874
+      greengiantboss 1_139: -1662664865
+      greengiantboss 1_14: 1088260557
+      greengiantboss 1_140: -394302417
+      greengiantboss 1_141: 17830616
+      greengiantboss 1_142: -2041031911
+      greengiantboss 1_143: 377699210
+      greengiantboss 1_144: 653662906
+      greengiantboss 1_145: -1804570181
+      greengiantboss 1_146: -169335328
+      greengiantboss 1_147: 167642906
+      greengiantboss 1_148: 835051342
+      greengiantboss 1_149: -823063676
+      greengiantboss 1_15: 831634158
+      greengiantboss 1_150: 2136581652
+      greengiantboss 1_151: 208812076
+      greengiantboss 1_152: 2030883490
+      greengiantboss 1_153: -1945419741
+      greengiantboss 1_154: -1739737905
+      greengiantboss 1_155: 2083807571
+      greengiantboss 1_156: 162228539
+      greengiantboss 1_157: 2100033347
+      greengiantboss 1_158: 1563630011
+      greengiantboss 1_159: 326998603
+      greengiantboss 1_16: -1238668023
+      greengiantboss 1_160: -134015488
+      greengiantboss 1_161: 1780711208
+      greengiantboss 1_162: 934538858
+      greengiantboss 1_163: -1890295623
+      greengiantboss 1_164: -1567794228
+      greengiantboss 1_165: 141865164
+      greengiantboss 1_166: 1470037172
+      greengiantboss 1_167: 1086075740
+      greengiantboss 1_168: -598743334
+      greengiantboss 1_169: -1471868776
+      greengiantboss 1_17: 1538946555
+      greengiantboss 1_170: -1867721026
+      greengiantboss 1_171: -49614672
+      greengiantboss 1_172: -1605400760
+      greengiantboss 1_173: -130441267
+      greengiantboss 1_174: -572867263
+      greengiantboss 1_175: 617167110
+      greengiantboss 1_176: 1711455537
+      greengiantboss 1_177: 1319640749
+      greengiantboss 1_178: -1156709039
+      greengiantboss 1_179: -2038407551
+      greengiantboss 1_18: 1362408742
+      greengiantboss 1_180: -369222809
+      greengiantboss 1_181: 1887031795
+      greengiantboss 1_182: 487120950
+      greengiantboss 1_183: -1500816628
+      greengiantboss 1_184: -324001757
+      greengiantboss 1_185: 636426644
+      greengiantboss 1_186: 135975400
+      greengiantboss 1_187: 144483598
+      greengiantboss 1_188: 271142826
+      greengiantboss 1_189: -200398213
+      greengiantboss 1_19: 1147919596
+      greengiantboss 1_190: 1525818689
+      greengiantboss 1_191: 1049235541
+      greengiantboss 1_192: 921941881
+      greengiantboss 1_193: 2049310529
+      greengiantboss 1_194: -1423780787
+      greengiantboss 1_195: -1818484557
+      greengiantboss 1_196: -2019244674
+      greengiantboss 1_197: -673551875
+      greengiantboss 1_198: -1787668090
+      greengiantboss 1_199: -1737131199
+      greengiantboss 1_2: -176799322
+      greengiantboss 1_20: 292392606
+      greengiantboss 1_200: 958497749
+      greengiantboss 1_201: -1259652803
+      greengiantboss 1_202: -73743704
+      greengiantboss 1_203: -801999821
+      greengiantboss 1_204: 283535588
+      greengiantboss 1_205: -804527894
+      greengiantboss 1_206: -15295998
+      greengiantboss 1_207: 378115954
+      greengiantboss 1_208: 1035337500
+      greengiantboss 1_209: 372318229
+      greengiantboss 1_21: 1166660223
+      greengiantboss 1_210: -1219188087
+      greengiantboss 1_211: 2067239529
+      greengiantboss 1_212: 1295889602
+      greengiantboss 1_213: 1779843693
+      greengiantboss 1_214: -1323075962
+      greengiantboss 1_215: 59075604
+      greengiantboss 1_216: -2040390083
+      greengiantboss 1_217: 629552378
+      greengiantboss 1_218: 429466456
+      greengiantboss 1_219: 1537759507
+      greengiantboss 1_22: -489713230
+      greengiantboss 1_220: -1682443082
+      greengiantboss 1_221: 621946997
+      greengiantboss 1_222: 286996534
+      greengiantboss 1_223: -1000685762
+      greengiantboss 1_224: 1643554904
+      greengiantboss 1_225: 276788039
+      greengiantboss 1_226: 724264570
+      greengiantboss 1_227: -895506403
+      greengiantboss 1_228: -1282868815
+      greengiantboss 1_229: -1480494368
+      greengiantboss 1_23: -991785910
+      greengiantboss 1_230: -438681815
+      greengiantboss 1_231: 800716760
+      greengiantboss 1_232: -1094996320
+      greengiantboss 1_233: -1234297733
+      greengiantboss 1_234: -1365781179
+      greengiantboss 1_235: -1819057907
+      greengiantboss 1_236: -289369335
+      greengiantboss 1_237: -95779514
+      greengiantboss 1_238: 260958482
+      greengiantboss 1_239: 1817526124
+      greengiantboss 1_24: -585139115
+      greengiantboss 1_240: 33790544
+      greengiantboss 1_241: -963330074
+      greengiantboss 1_242: -1546624460
+      greengiantboss 1_243: -358847423
+      greengiantboss 1_244: -757336020
+      greengiantboss 1_245: -1481757768
+      greengiantboss 1_246: 536876323
+      greengiantboss 1_247: -1031429228
+      greengiantboss 1_248: 1930778639
+      greengiantboss 1_249: 1469294374
+      greengiantboss 1_25: -2138608750
+      greengiantboss 1_250: -999287647
+      greengiantboss 1_251: 1741695561
+      greengiantboss 1_252: -82863922
+      greengiantboss 1_253: 1030217366
+      greengiantboss 1_254: -1867600822
+      greengiantboss 1_255: 559623827
+      greengiantboss 1_256: 681857195
+      greengiantboss 1_257: 1050864650
+      greengiantboss 1_258: 981145311
+      greengiantboss 1_259: 1248664530
+      greengiantboss 1_26: 601723503
+      greengiantboss 1_260: 1940625240
+      greengiantboss 1_261: -731858953
+      greengiantboss 1_262: -935102797
+      greengiantboss 1_263: 455976446
+      greengiantboss 1_264: -1550062824
+      greengiantboss 1_265: 607477668
+      greengiantboss 1_266: -1653565243
+      greengiantboss 1_267: -1612065626
+      greengiantboss 1_268: -49101251
+      greengiantboss 1_269: -1512640093
+      greengiantboss 1_27: 2063001606
+      greengiantboss 1_270: -1120198171
+      greengiantboss 1_271: 1977381194
+      greengiantboss 1_28: -720682911
+      greengiantboss 1_29: 1734853291
+      greengiantboss 1_3: -1926215803
+      greengiantboss 1_30: 138150653
+      greengiantboss 1_31: -174692950
+      greengiantboss 1_32: 460510362
+      greengiantboss 1_33: 1732976667
+      greengiantboss 1_34: 277928255
+      greengiantboss 1_35: 793684043
+      greengiantboss 1_36: 1006674926
+      greengiantboss 1_37: -362252680
+      greengiantboss 1_38: 482802030
+      greengiantboss 1_39: -1619786063
+      greengiantboss 1_4: -469175790
+      greengiantboss 1_40: -1107873796
+      greengiantboss 1_41: 907810811
+      greengiantboss 1_42: -1843305606
+      greengiantboss 1_43: -2040876178
+      greengiantboss 1_44: 1221145504
+      greengiantboss 1_45: -403261109
+      greengiantboss 1_46: 1760367357
+      greengiantboss 1_47: 845294739
+      greengiantboss 1_48: 149004572
+      greengiantboss 1_49: -494948746
+      greengiantboss 1_5: -894651755
+      greengiantboss 1_50: 1028106474
+      greengiantboss 1_51: -622113876
+      greengiantboss 1_52: -908184636
+      greengiantboss 1_53: -592071709
+      greengiantboss 1_54: 350663516
+      greengiantboss 1_55: 1546093702
+      greengiantboss 1_56: -884477917
+      greengiantboss 1_57: -2048528486
+      greengiantboss 1_58: -1752905158
+      greengiantboss 1_59: -975699180
+      greengiantboss 1_6: -1882268378
+      greengiantboss 1_60: 1391305170
+      greengiantboss 1_61: -938039377
+      greengiantboss 1_62: 1604512292
+      greengiantboss 1_63: 120091299
+      greengiantboss 1_64: -890443359
+      greengiantboss 1_65: 1634614286
+      greengiantboss 1_66: 580564594
+      greengiantboss 1_67: -795180199
+      greengiantboss 1_68: 1349777805
+      greengiantboss 1_69: -192270346
+      greengiantboss 1_7: 1869954319
+      greengiantboss 1_70: -1345520592
+      greengiantboss 1_71: -1658090053
+      greengiantboss 1_72: 779712285
+      greengiantboss 1_73: -599647271
+      greengiantboss 1_74: -557345735
+      greengiantboss 1_75: -659528552
+      greengiantboss 1_76: -467220794
+      greengiantboss 1_77: -538651904
+      greengiantboss 1_78: -1595251503
+      greengiantboss 1_79: -515582613
+      greengiantboss 1_8: 1782680513
+      greengiantboss 1_80: 39990790
+      greengiantboss 1_81: 484910710
+      greengiantboss 1_82: 1445870321
+      greengiantboss 1_83: -288656792
+      greengiantboss 1_84: 1407792023
+      greengiantboss 1_85: -1288823924
+      greengiantboss 1_86: -1084955247
+      greengiantboss 1_87: -603804480
+      greengiantboss 1_88: 1859494437
+      greengiantboss 1_89: 1988319429
+      greengiantboss 1_9: -509790844
+      greengiantboss 1_90: -726976633
+      greengiantboss 1_91: 1370088883
+      greengiantboss 1_92: 496684767
+      greengiantboss 1_93: 1131700599
+      greengiantboss 1_94: -1237936512
+      greengiantboss 1_95: -838172187
+      greengiantboss 1_96: 41791848
+      greengiantboss 1_97: -23869146
+      greengiantboss 1_98: -551177037
+      greengiantboss 1_99: -1236027728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

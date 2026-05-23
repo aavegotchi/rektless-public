@@ -1,0 +1,16 @@
+﻿<Solution>
+  <Project Path="BuildReportTool.csproj" />
+  <Project Path="Thirdweb.Plugins.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="AssetUsageDetector.Editor.csproj" />
+  <Project Path="PlayFabEditorExtensions.csproj" />
+  <Project Path="PlayFab.csproj" />
+  <Project Path="Thirdweb.Unity.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="Thirdweb.Editor.csproj" />
+  <Project Path="WebGLThreadingPatcher.Runtime.csproj" />
+  <Project Path="PlayFabSDKEditor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Thirdweb.Examples.csproj" />
+  <Project Path="WebGLThreadingPatcher.Editor.csproj" />
+</Solution>
