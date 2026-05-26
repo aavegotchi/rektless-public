@@ -16,6 +16,10 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
     public (string gems, string kills)[] otherValues;
     public bool error;
     Coroutine leaderboardCoroutine;
+    bool _leaderboardLoadComplete;
+    bool _leaderboardLoadFailed;
+    bool _pipelineStepDone;
+    int _pendingExtraStats;
     public string currentPlayerID;
     public bool nameUpdated;
     public string oldName;
@@ -58,10 +62,12 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
         // }
     }
 
-    private void Update()
+    void OnLeaderboardStepError(PlayFabError playFabError)
     {
-        if (error && leaderboardCoroutine != null)
-            StopCoroutine(leaderboardCoroutine);
+        Debug.LogError($"[PlayFab] Leaderboard pipeline error: {playFabError.GenerateErrorReport()}");
+        _leaderboardLoadFailed = true;
+        _leaderboardLoadComplete = true;
+        _pipelineStepDone = true;
     }
 
     public void LoginWithWallet(string walletID)
@@ -95,8 +101,7 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
 
     public void LoginAsGuest()
     {
-        string existingID = PlayerPrefs.GetString("WalletAddress", string.Empty);
-        string customId = existingID.Length > 0 ? existingID : new UniqueID().ID;
+        string customId = new UniqueID().ID;
         Debug.Log($"[PlayFab] Logging in as guest with ID: {customId}");
 
         var request = new LoginWithCustomIDRequest
@@ -155,8 +160,14 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
 
     public void SendLeaderboard(int distance, int numberRekt, int gems, string levelKey)
     {
+        if (leaderboardCoroutine != null)
+            StopCoroutine(leaderboardCoroutine);
+
         currentLeaderboard.Clear();
         otherValues = new (string gems, string kills)[0];
+        _leaderboardLoadComplete = false;
+        _leaderboardLoadFailed = false;
+        _pendingExtraStats = 0;
         leaderboardCoroutine = StartCoroutine(Co_SendLeaderboard(distance, numberRekt, gems, levelKey));
     }
 
@@ -166,7 +177,6 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
         string rektStatName = "MaxRekt_" + levelKey;
         _currentLevelKey = levelKey;
         error = false;
-        bool finished = false;
 
         Debug.Log($"[PlayFab] Starting leaderboard update — Distance: {distance}, Rekt: {numberRekt}, Gems: {gems}");
 
@@ -178,6 +188,7 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
         int currentMaxDistance = 0, currentMaxRekt = 0, currentMaxGems = 0;
 
         Debug.Log("[PlayFab] Step 1/5 — GetPlayerStatistics...");
+        _pipelineStepDone = false;
         PlayFabClientAPI.GetPlayerStatistics(playerDataRequest,
             resultCallback =>
             {
@@ -192,12 +203,12 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
                 }
 
                 Debug.Log($"[PlayFab] ✓ Got stats — {distanceStatName}: {currentMaxDistance}, {rektStatName}: {currentMaxRekt}, MaxGems: {currentMaxGems}");
-                finished = true;
+                _pipelineStepDone = true;
             },
-            OnError);
+            OnLeaderboardStepError);
 
-        yield return new WaitUntil(() => finished);
-        finished = false;
+        yield return new WaitUntil(() => _pipelineStepDone);
+        if (_leaderboardLoadFailed) yield break;
 
         // Only update if new values are higher
         var request = new UpdatePlayerStatisticsRequest
@@ -223,15 +234,16 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
         };
 
         Debug.Log("[PlayFab] Step 2/5 — UpdatePlayerStatistics...");
+        _pipelineStepDone = false;
         PlayFabClientAPI.UpdatePlayerStatistics(request, result =>
         {
             Debug.Log("[PlayFab] ✓ Stats updated successfully");
-            finished = true;
-        }, OnError);
+            _pipelineStepDone = true;
+        }, OnLeaderboardStepError);
 
         yield return new WaitForSeconds(.5f);
-        yield return new WaitUntil(() => finished);
-        finished = false;
+        yield return new WaitUntil(() => _pipelineStepDone);
+        if (_leaderboardLoadFailed) yield break;
 
         Debug.Log("[PlayFab] Step 3/5 — Re-fetching player stats to confirm...");
         var playerDataRequest2 = new GetPlayerStatisticsRequest
@@ -239,6 +251,7 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
             StatisticNames = new List<string> { distanceStatName, rektStatName, "MaxGems" }
         };
 
+        _pipelineStepDone = false;
         PlayFabClientAPI.GetPlayerStatistics(playerDataRequest2,
             resultCallback =>
             {
@@ -253,12 +266,12 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
                 }
 
                 Debug.Log($"[PlayFab] ✓ Confirmed stats — {distanceStatName}: {currentMaxDistance}, {rektStatName}: {currentMaxRekt}, MaxGems: {currentMaxGems}");
-                finished = true;
+                _pipelineStepDone = true;
             },
-            OnError);
+            OnLeaderboardStepError);
 
-        yield return new WaitUntil(() => finished);
-        finished = false;
+        yield return new WaitUntil(() => _pipelineStepDone);
+        if (_leaderboardLoadFailed) yield break;
 
         Debug.Log("[PlayFab] Step 4/5 — UpdateUserData (public gems & rekt)...");
         var dataRequest = new UpdateUserDataRequest
@@ -271,15 +284,16 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
             Permission = UserDataPermission.Public
         };
 
+        _pipelineStepDone = false;
         PlayFabClientAPI.UpdateUserData(dataRequest, resultCallback =>
             {
                 Debug.Log("[PlayFab] ✓ User data updated successfully");
-                finished = true;
+                _pipelineStepDone = true;
             },
-            OnError);
+            OnLeaderboardStepError);
 
-        yield return new WaitUntil(() => finished);
-        finished = false;
+        yield return new WaitUntil(() => _pipelineStepDone);
+        if (_leaderboardLoadFailed) yield break;
 
         Debug.Log($"[PlayFab] Step 5/5 — GetLeaderboard (top 100 by {distanceStatName})...");
         var boardRequest = new GetLeaderboardRequest
@@ -289,7 +303,7 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
             MaxResultsCount = 100,
         };
 
-        PlayFabClientAPI.GetLeaderboard(boardRequest, OnLeaderboardGet, OnError);
+        PlayFabClientAPI.GetLeaderboard(boardRequest, OnLeaderboardGet, OnLeaderboardStepError);
     }
 
     void OnLeaderboardUpdate(UpdatePlayerStatisticsResult result)
@@ -316,26 +330,29 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
             Debug.Log($"[PlayFab]   #{item.Position + 1} | {item.DisplayName} | Distance: {item.StatValue} | ID: {item.PlayFabId}");
 
         currentLeaderboard = result.Leaderboard;
-
         otherValues = new (string, string)[result.Leaderboard.Count];
-        currentLeaderboard = result.Leaderboard;
-        for (int i = 0; i < currentLeaderboard.Count; i++)
+        _pendingExtraStats = result.Leaderboard.Count;
+
+        if (_pendingExtraStats == 0)
         {
-            GetAdditionalStats(currentLeaderboard[i], i);
+            _leaderboardLoadComplete = true;
+            return;
         }
+
+        for (int i = 0; i < currentLeaderboard.Count; i++)
+            GetAdditionalStats(currentLeaderboard[i], i);
     }
 
     public bool LeaderboardIsDone()
     {
-        if (otherValues == null || otherValues.Length <= 0) return false;
+        return _leaderboardLoadComplete || _leaderboardLoadFailed;
+    }
 
-        foreach (var item in otherValues)
-        {
-            if (item.gems == string.Empty)
-                return false;
-        }
-
-        return true;
+    void OnExtraStatsLoaded(int index)
+    {
+        _pendingExtraStats--;
+        if (_pendingExtraStats <= 0)
+            _leaderboardLoadComplete = true;
     }
 
 
@@ -382,7 +399,14 @@ public class PlayfabManager : MonoBehaviourSingletonPersistent<PlayfabManager>
                 otherValues[index].kills = data.ContainsKey(rektKey) ? data[rektKey].Value : "0";
 
                 Debug.Log($"[PlayFab] ✓ Extra stats for {entry.DisplayName} — Gems: {otherValues[index].gems}, Rekt: {otherValues[index].kills}");
+                OnExtraStatsLoaded(index);
             },
-            error => { Debug.LogError($"[PlayFab] ✗ Failed to get extra stats for {entry.DisplayName}: {error.GenerateErrorReport()}"); });
+            error =>
+            {
+                Debug.LogError($"[PlayFab] ✗ Failed to get extra stats for {entry.DisplayName}: {error.GenerateErrorReport()}");
+                otherValues[index].gems = "0";
+                otherValues[index].kills = "0";
+                OnExtraStatsLoaded(index);
+            });
     }
 }
